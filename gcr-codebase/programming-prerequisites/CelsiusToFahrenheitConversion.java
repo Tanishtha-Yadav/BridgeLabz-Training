@@ -12,3 +12,4 @@ class CelsiusToFahrenheitConversion {
         System.out.println("Temperature in Fahrenheit = " + fahrenheit);
     }
 }
+
