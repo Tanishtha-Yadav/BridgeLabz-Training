@@ -7,6 +7,6 @@ public class FindAge{
 		int currentYear = 2024;
 		int age=currentYear-birthYearHarry;
 	
-		System.out.println("Harry's age in "+currentYear+" is "+age);
+		System.out.println(" Harry's age in "+currentYear+" is "+age);
 	}
 }
