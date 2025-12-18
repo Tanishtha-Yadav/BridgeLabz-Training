@@ -8,6 +8,7 @@ public class SumNaturalNumberFor{
 	System.out.println("Enter the number : ");
 	int number = sc.nextInt();
 	
+	//logic 
 	if(number>=0)
 	{
 		int sum=0;
