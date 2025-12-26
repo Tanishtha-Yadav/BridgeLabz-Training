@@ -93,4 +93,18 @@ https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/Core-Java-Practice/g
 https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/Core-Java-Practice/gcr-codebase/control-flow
 
 ---
+## 📅 Day 5 – Java Arrays  
+**(Date: 19-Dec-2025)**
+
+- Learned:
+  - 1D Arrays
+  - Array traversal & iteration
+- Implemented array‑based problem statements.
+- Submitted **Arrays Practice Programs**.
+- Updated arrays folder and pushed to GitHub.
+
+**🔗 Code Link:**  
+https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/Core-Java-Practice/gcr-codebase/arrays
+
+---
 
