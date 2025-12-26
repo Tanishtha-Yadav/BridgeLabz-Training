@@ -122,4 +122,18 @@ https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/Core-Java-Practice/g
 https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/Core-Java-Practice/gcr-codebase/methods
 
 ---
+## 📅 Day 7 – Java Strings  
+**(Date: 22-Dec-2025)**
+
+- Learned:
+  - String concepts & immutability
+  - String functions and operations
+- Reviewed material:
+  - **05 – Java String**
+- Submitted **Submissions on Java String Practices**.
+
+**🔗 Code Link:**  
+https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/Core-Java-Practice/gcr-codebase/string
+
+---
 
