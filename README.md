@@ -107,4 +107,19 @@ https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/Core-Java-Practice/g
 https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/Core-Java-Practice/gcr-codebase/arrays
 
 ---
+## 📅 Day 6 – Java Methods  
+**(Date: 20-Dec-2025)**
+
+- Studied:
+  - Method declaration & definition
+  - Parameterized methods
+  - Return values & modular code design
+- Practiced reusable function logic through programs.
+- Submitted **Submissions on Java Methods Practices**.
+- Maintained proper project folder structure.
+
+**🔗 Code Link:**  
+https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/Core-Java-Practice/gcr-codebase/methods
+
+---
 
