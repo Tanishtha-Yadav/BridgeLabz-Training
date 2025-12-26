@@ -63,4 +63,18 @@ https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/Core-Java-Practice
 https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/Core-Java-Practice/gcr-codebase/programming-prerequisites
 
 ---
+## 📅 Day 3 – Programming Elements in Java  
+**(Date: 17-Dec-2025)**
+
+- Studied Java programming elements:
+  - Variables & primitive data types
+  - Operators & expressions
+  - User input using Scanner
+- Solved practice programs based on fundamentals.
+- Committed and pushed solutions to repository.
+
+**🔗 Code Link:**  
+https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/Core-Java-Practice/gcr-codebase/programming-elements
+
+---
 
