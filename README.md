@@ -29,4 +29,38 @@ The repository also demonstrates the use of Git and GitHub for version control a
 https://github.com/Tanishtha-Yadav/BridgeLabz-Training
 
 ---
+## 📅 Day 2 – Git Setup, Repo Structure & Basic Java Programs  
+**(Date: 16-Dec-2025)**
+
+- Installed and configured Git on local system.
+- Set up GitHub repository and initialized folder structure.
+- Practiced Git workflow:
+  - `init`, `clone`, `status`, `add`, `commit`, `push`
+- Practiced basic Java programs to understand syntax and execution.
+- Added & pushed Java files to GitHub.
+
+**Repository Structure:**
+
+```
+BridgeLabz-Training/
+├── core-java-practice/
+│   ├── gcr-codebase/
+│   |    ├── arrays/
+│   |    ├── control-flow/
+|   |    ├── extras/
+│   |    ├── methods/
+│   |    ├── programming-elements/
+|   |    ├── programming-prerequisites/
+│   |    ├── strings/
+│   ├── leet-code-codebase
+|   ├── scenario-based
+├──README.md
+```
+
+**🔗 Repository Structure Link:**  
+https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/Core-Java-Practice
+**🔗 Basic java programs Link:** 
+https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/Core-Java-Practice/gcr-codebase/programming-prerequisites
+
+---
 
