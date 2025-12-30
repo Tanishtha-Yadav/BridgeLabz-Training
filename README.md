@@ -1,17 +1,13 @@
 # BridgeLabz Training
-
 This repository documents my day-wise work during the BridgeLabz Training Program, covering learning activities, practice problems, and assignments.
 It reflects my continuous progress in programming, problem-solving skills, and logical thinking through hands-on practice.
 The repository also demonstrates the use of Git and GitHub for version control and organizing code.
-
 ---
-
 ## Week 1: Git, GitHub & Core Java Fundamentals
-
 ---
-
 ## 📅 Day 1 – Orientation & Java Fundamentals Overview  
 **(Date: 15-Dec-2025)**
+---
 
 - Attended BridgeLabz training orientation and program briefing.
 - Reviewed:
@@ -75,7 +71,6 @@ https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/Core-Java-Practice/g
 
 **🔗 Code Link:**  
 https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/Core-Java-Practice/gcr-codebase/programming-elements
-
 ---
 
 ## 📅 Day 4 – Java Control Flow  
@@ -91,8 +86,8 @@ https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/Core-Java-Practice/g
 
 **🔗 Code Link:**  
 https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/Core-Java-Practice/gcr-codebase/control-flow
-
 ---
+
 ## 📅 Day 5 – Java Arrays  
 **(Date: 19-Dec-2025)**
 
@@ -105,8 +100,8 @@ https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/Core-Java-Practice/g
 
 **🔗 Code Link:**  
 https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/Core-Java-Practice/gcr-codebase/arrays
-
 ---
+
 ## 📅 Day 6 – Java Methods  
 **(Date: 20-Dec-2025)**
 
@@ -120,9 +115,10 @@ https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/Core-Java-Practice/g
 
 **🔗 Code Link:**  
 https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/Core-Java-Practice/gcr-codebase/methods
-
 ---
-## 📅 Day 7 – Java Strings  
+## Week 2: Core java concepts : String , Builtin Functions
+---
+## 📅 Day 1 – Java Strings  
 **(Date: 22-Dec-2025)**
 
 - Learned:
@@ -134,9 +130,9 @@ https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/Core-Java-Practice/g
 
 **🔗 Code Link:**  
 https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/Core-Java-Practice/gcr-codebase/string
-
 ---
-## 📅 Day 8 – EXTRAS: Built‑in Functions & Java String Handling  
+
+## 📅 Day 2 – EXTRAS: Built‑in Functions & Java String Handling  
 **(Date: 23-Dec-2025)**
 
 - Practiced:
@@ -150,9 +146,9 @@ https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/Core-Java-Practice/g
 
 **🔗 Code Link:**  
 https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/Core-Java-Practice/gcr-codebase/EXTRAS
-
 ---
-## 📅 Day 9 – Scenario‑Based Java Problems  
+
+## 📅 Day 3 – Scenario‑Based Java Problems  
 **(Date: 24-Dec-2025)**
 
 - Worked on real‑world Java problems applying:
@@ -167,18 +163,17 @@ https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/Core-Java-Practice/g
 **Problems Implemented:**
 
 - ☕ **Coffee Counter Chronicles**  
-  Coffee ordering & billing system using switch, GST logic,  
-  and continuous orders using while‑loop until *exit*.
+  - Coffee ordering & billing system using switch, GST logic, and continuous orders using while‑loop until *exit*.
 
 - 🧮 **Maya’s BMI Fitness Tracker**  
-  BMI calculation using formula with category classification via if‑else.
-
-- Pushed solutions to **scenario‑based** folder in repository.
+  - BMI calculation using formula with category classification via if‑else.
+  - Pushed solutions to **scenario‑based** folder in repository.
 
 **🔗 Code Link:**  
-https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/Core-Java-Practice/scenario-based
+https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/Core-Java-Practice/scenario-based/day-1
 ---
-## 📅 Day 10 – Core Java Scenario-Based Programs + OOP Kickoff  
+
+## 📅 Day 4 – Core Java Scenario-Based Programs 
 **(Date: 26-Dec-2025)**
 
 - Continued working on **advanced scenario-based Core Java problems**.
@@ -190,7 +185,66 @@ https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/Core-Java-Practice/s
   - break & continue control flow  
   - Clean-code formatting, indentation & meaningful comments
 
+- 🗳️ **Election Booth Manager**
+  - Checks voter eligibility using age (if condition)
+  - Records votes (1/2/3) for multiple voters using loop
+
+- 🚇 **Metro Smart Card Fare Deduction**
+  - Calculates fare based on distance using ternary operator
+  - Deducts balance repeatedly until exhausted or exit
+
+- 📊 **Raj’s Result Generator**
+  - Takes 5 subject marks using for-loop and calculates average
+  - Assigns grades using switch-case
+
 *Scenario Based Questions Solved*
 **🔗 Code Link:**  
+https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/Core-Java-Practice/scenario-based/day-2
+---
+## 📅 Day 5 – Core Java Scenario-Based Programs 
+**(Date: 27-Dec-2025)**
+
+- Continued working on **scenario-based Core Java problems**.
+- Applied concepts:
+  - Scanner input, variables & primitive data types  
+  - if-else & switch decision handling  
+  - for, while & do-while loops  
+  - Ternary operator usage  
+  - break & continue control flow  
+  - Clean-code formatting, indentation & meaningful comments
+
+**🔗 Link:**  
 https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/Core-Java-Practice/scenario-based
 ---
+## Week 3: Scenario-Based Problems
+---
+## 📅 Day 1 – Core Java Scenario‑Based Problems 
+**(Date: 29-Dec-2025)**
+
+- Continued solving **Core Java real‑world scenario‑based problems**.
+
+**Scenario Problems Solved:**
+- 🚗 **Parking Lot Gate System**
+  - Menu-driven system with options: Park, Exit, Show Occupancy
+  - Uses switch-case for menu handling and while loop for continuation
+
+- 🎲 **The Number Guessing Game**
+  - Player guesses a number between 1 and 100 using do-while loop
+  - Provides hints (“Too high” / “Too low”) and limits attempts to 5
+
+- 🛍️ **Shopkeeper’s Discount Dashboard**
+  - Inputs item prices using a for loop and calculates total bill
+  - Applies discount rules using if-else with clean coding practices
+
+- 🚍 **School Bus Attendance System**
+  - Uses for-each loop to check attendance of 10 students
+  - Displays total present and absent count
+
+- 📱 **Phone Recharge Simulator**
+  - Uses switch-case to show operator-wise recharge offers
+  - Allows repeated recharges using loop and shows updated balance
+
+**🔗 Link:** 
+https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/Core-Java-Practice/scenario-based/day-3
+---
+
