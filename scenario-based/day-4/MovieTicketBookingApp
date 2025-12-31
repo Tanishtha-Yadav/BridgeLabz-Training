@@ -1,0 +1,65 @@
+import java.util.*;
+
+public class MovieTicketBookingApp {
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        char continueBooking = 'y';
+
+        while (continueBooking == 'y' || continueBooking == 'Y') {
+
+            int basePrice = 0;
+            int totalPrice;
+
+            System.out.println("Select Movie Type:");
+            System.out.println("1. Normal");
+            System.out.println("2. 3D");
+            System.out.println("3. IMAX");
+            int movieType = sc.nextInt();
+
+            System.out.print("Enter Seat Type (Gold/Silver): ");
+            String seatType = sc.next();
+
+            System.out.print("Do you want snacks? (yes/no): ");
+            String snacks = sc.next();
+
+            // Movie price using switch
+            switch (movieType) 
+			{
+                case 1:
+                    basePrice = 150;
+                    break;
+                case 2:
+                    basePrice = 250;
+                    break;
+                case 3:
+                    basePrice = 350;
+                    break;
+                default:
+                    System.out.println("Invalid movie type");
+                    continue;
+            }
+
+            totalPrice = basePrice;
+
+            // Seat type price using if
+            if (seatType.equalsIgnoreCase("Gold")) {
+                totalPrice += 100;
+            } else if (seatType.equalsIgnoreCase("Silver")) {
+                totalPrice += 50;
+            }
+
+            // Snacks price
+            if (snacks.equalsIgnoreCase("yes")) {
+                totalPrice += 80;
+            }
+
+            System.out.println("Total Ticket Price: ₹" + totalPrice);
+
+            System.out.print("Book for next customer? (y/n): ");
+            continueBooking = sc.next().charAt(0);
+        }
+
+        sc.close();
+    }
+}
