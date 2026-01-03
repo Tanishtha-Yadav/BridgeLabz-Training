@@ -1,0 +1,6 @@
+package com.day2.cabbygo;
+
+interface IRideService {
+    void bookRide(int distance);
+    void endRide();
+}
