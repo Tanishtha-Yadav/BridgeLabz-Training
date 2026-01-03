@@ -1,4 +1,4 @@
-package com.inheritence.librarymanagement;
+package com.inheritance.singleinheritance.librarymanagement;
 
 public class Book 
 {
