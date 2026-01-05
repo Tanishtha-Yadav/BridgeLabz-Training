@@ -1,11 +1,13 @@
 package com.linkedlist.singlylinkedlist.studentrecord;
 
-class StudentNode {
+class StudentNode 
+{
     int rollNo, age;
     String name, grade;
     StudentNode next;
 
-    StudentNode(int rollNo, String name, int age, String grade) {
+    StudentNode(int rollNo, String name, int age, String grade) 
+    {
         this.rollNo = rollNo;
         this.name = name;
         this.age = age;
@@ -14,20 +16,24 @@ class StudentNode {
     }
 }
 
-public class Student {
+public class Student 
+{
     StudentNode head;
 
     // Add at beginning
-    void addAtBeginning(int rollNo, String name, int age, String grade) {
+    void addAtBeginning(int rollNo, String name, int age, String grade)
+    {
         StudentNode newNode = new StudentNode(rollNo, name, age, grade);
         newNode.next = head;
         head = newNode;
     }
 
     // Add at end
-    void addAtEnd(int rollNo, String name, int age, String grade) {
+    void addAtEnd(int rollNo, String name, int age, String grade) 
+    {
         StudentNode newNode = new StudentNode(rollNo, name, age, grade);
-        if (head == null) {
+        if (head == null) 
+        {
             head = newNode;
             return;
         }
@@ -38,8 +44,10 @@ public class Student {
     }
 
     // Add at specific position
-    void addAtPosition(int pos, int rollNo, String name, int age, String grade) {
-        if (pos == 1) {
+    void addAtPosition(int pos, int rollNo, String name, int age, String grade) 
+    {
+        if (pos == 1) 
+        {
             addAtBeginning(rollNo, name, age, grade);
             return;
         }
@@ -55,10 +63,12 @@ public class Student {
     }
 
     // Delete by Roll Number
-    void deleteByRollNo(int rollNo) {
+    void deleteByRollNo(int rollNo)
+    {
         if (head == null) return;
 
-        if (head.rollNo == rollNo) {
+        if (head.rollNo == rollNo) 
+        {
             head = head.next;
             return;
         }
@@ -72,10 +82,13 @@ public class Student {
     }
 
     // Search by Roll Number
-    void search(int rollNo) {
+    void search(int rollNo)
+    {
         StudentNode temp = head;
-        while (temp != null) {
-            if (temp.rollNo == rollNo) {
+        while (temp != null) 
+        {
+            if (temp.rollNo == rollNo) 
+            {
                 System.out.println("Found: " + temp.name + " Grade: " + temp.grade);
                 return;
             }
@@ -85,10 +98,13 @@ public class Student {
     }
 
     // Update Grade
-    void updateGrade(int rollNo, String newGrade) {
+    void updateGrade(int rollNo, String newGrade) 
+    {
         StudentNode temp = head;
-        while (temp != null) {
-            if (temp.rollNo == rollNo) {
+        while (temp != null) 
+        {
+            if (temp.rollNo == rollNo) 
+            {
                 temp.grade = newGrade;
                 return;
             }
@@ -99,13 +115,15 @@ public class Student {
     // Display all records
     void display() {
         StudentNode temp = head;
-        while (temp != null) {
+        while (temp != null)
+        {
             System.out.println(temp.rollNo + " " + temp.name + " " + temp.age + " " + temp.grade);
             temp = temp.next;
         }
     }
 
-    public static void main(String[] args) {
+    public static void main(String[] args) 
+    {
         Student list = new Student();
 
         list.addAtBeginning(1, "Amit", 20, "A");
