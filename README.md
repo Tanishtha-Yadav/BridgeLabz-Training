@@ -67,4 +67,27 @@ https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/dsa-practice/java-ds
 🔗 *Repository Link
 https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/DSAConcepts/src/com/sortingalgorithm
 
+--
+
+📅 **Day 4 – Searching Algorithms, String Handling & Java I/O**
+
+**(Date: 06-Jan-2026)**
+
+ *Topics Covered
+ 
+ - Linear Search
+ - Binary Search
+ - StringBuilder
+ - StringBuffer
+ - FileReader
+ - BufferedReader
+ - InputStreamReader
+
+ *Learning Outcome
+
+ - Understood searching techniques and their efficiency
+ - Learned mutable string handling in Java
+ - Gained clarity on Java I/O and character streams
+ 
+---
 
