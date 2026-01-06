@@ -48,3 +48,23 @@ https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/dsa-practice/java-ds
 
 --
 
+📅 **Day 3 – Submission of Sorting Algorithms**
+
+**(Date: 05-Jan-2026)**
+
+ *Topics Covered
+
+ - Bubble Sort
+ - Insertion Sort
+ - Merge Sort
+ - Quick Sort
+
+ *Learning Outcome
+ - Understood comparison-based sorting techniques
+ - Analyzed time complexity of sorting algorithms
+ - Implemented and compared multiple sorting methods
+
+🔗 *Repository Link
+https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/DSAConcepts/src/com/sortingalgorithm
+
+
