@@ -1,126 +1,186 @@
-# BridgeLabz Training — Data Structures & Algorithms (DSA)
+# BridgeLabz Training — Object Oriented Programming (OOP)
 
-## 📘 Branch: dsa-practice
+## 📘 Branch: java-oops-practice
 
-This README documents my **day-wise learning progress** for the **Data Structures and Algorithms (DSA)** branch as part of BridgeLabz training. The focus is on understanding concepts, internal working, Java-based implementation, and real-world use cases.
-
----
-
-## 📅 Day 1 – Introduction to Data Structures & Linked Lists
-
-### Topics Covered
-
-#### 🔹 Introduction to Data Structures
-
-* What is a Data Structure
-* Why Data Structures are needed
-* Abstract Data Types (ADT)
-* Logical vs Physical data organization
-
-#### 🔹 Key Features of Data Structures in Java
-
-* Efficiency (time & space complexity)
-* Reusability and modularity
-* Data abstraction and encapsulation
-* Scalability for large data
-
-#### 🔹 Types of Data Structures in Java
-
-* Primitive vs Non‑Primitive
-* Linear Data Structures
-* Non‑Linear Data Structures
-* Static vs Dynamic structures
+This README documents my **day-wise learning progress** in **Object Oriented Programming (OOP)** as part of BridgeLabz training. The focus is on conceptual clarity, object modeling, clean code practices, and real‑world scenario-based design using Java.
 
 ---
 
-### 🔗 Linked Lists
+## 📅 Day 1 – OOP Kickoff
 
-#### 🔹 Singly Linked List
+**(Date: 26-Dec-2025)**
 
-* Node structure (data + next)
-* Dynamic memory allocation
-* Traversal, insertion, deletion
-* Advantages over arrays
+### ### OOP Practice Focus
 
-#### 🔹 Doubly Linked List
-
-* Node structure (prev + data + next)
-* Forward and backward traversal
-* Efficient deletion operations
-
-#### 🔹 Circular Linked List
-
-* Last node pointing to first
-* No NULL references
-* Use‑cases (round‑robin scheduling)
+* Practiced object-oriented thinking through basic problem scenarios
+* Focused on translating real-world ideas into classes and objects
+* Emphasized clean code, structure, and readability
 
 ---
 
-## 📅 Day 2 – Stack, Queue & HashMap
+### 🧩 Object-Oriented Programming — Getting Started
 
-### 🔹 Stack
+* Studied material:
 
-* LIFO principle
-* Operations: push, pop, peek
-* Stack implementation using array / linked list
-* Real‑world use cases (undo, recursion)
+  * **01 – Object-Oriented Programming Fundamentals**
 
-### 🔹 Queue
+* Understood:
 
-* FIFO principle
-* Operations: enqueue, dequeue, front
-* Linear queue & circular queue
-* Applications (ticketing, buffering)
+  * Class and Object
+  * Methods
+  * Instance behavior
 
-### 🔹 HashMap & Hashing Function
+* Created Git branch:
 
-* Key‑value pair storage
-* Hashing concept
-* Hash function & collision handling
-* Separate chaining overview
-* Common operations: put, get, remove
+```
+java-oops-practice
+```
+
+* Installed and configured **Eclipse IDE**
+* Shifted workflow from **Notepad++ to Eclipse**
+* Practiced:
+
+  * Java project creation
+  * Package and folder organization
+  * Class creation and execution
+
+**Assignment Completed:**
+
+* Java Class and Object implementation
 
 ---
 
-## 📅 Day 3 – Sorting Algorithms
+## 📅 Day 2 – Constructors, Variables & Access Modifiers
 
-### 🔹 Bubble Sort
+**(Date: 27-Dec-2025)**
 
-* Adjacent element comparison
-* Swapping mechanism
-* Time Complexity: O(n²)
-* Simple but inefficient
+* Studied material:
 
-### 🔹 Insertion Sort
+  * **02 – Constructors, Instance vs Class Variables, Access Modifiers**
 
-* Sorted & unsorted partition
-* In‑place comparison
-* Efficient for small datasets
+* Understood:
 
-### 🔹 Merge Sort
+  * Constructors and object initialization
+  * Instance vs static variables
+  * Access modifiers: public, private, protected, default
 
-* Divide and conquer approach
-* Recursive splitting
-* Stable sorting algorithm
-* Time Complexity: O(n log n)
+* Practiced Level‑1 lab exercises on:
 
-### 🔹 Quick Sort
+  * Constructor behavior
+  * Object creation
+  * Variable scope and access control
 
-* Pivot‑based partitioning
-* Recursive sorting
-* Best‑case: O(n log n)
-* Worst‑case: O(n²)
+---
+
+## 📅 Day 3 – OOP Keywords: this, static, final & instanceof
+
+**(Date: 29-Dec-2025)**
+
+* Practiced scenario-based problems using OOP concepts
+
+### OOP Concepts Covered
+
+* `this` keyword for instance reference
+* static variables and methods
+* final keyword usage
+* instanceof operator for runtime type checking
+
+---
+
+## 📅 Day 4 – Object Modeling & Design Principles
+
+**(Date: 30-Dec-2025)**
+
+* Studied material:
+
+  * **04 – Object Modeling and Class Diagrams**
+
+* Understood:
+
+  * Object modeling approach
+  * Class diagrams and relationships
+  * Responsibility-driven class design
+
+* Applied modeling concepts to scenario-based problems
+
+---
+
+## 📅 Day 5 – Inheritance & Advanced OOP Scenarios
+
+**(Date: 31-Dec-2025)**
+
+* Studied material:
+
+  * **05 – Inheritance**
+
+* Understood:
+
+  * Parent-child relationships
+  * Code reuse through inheritance
+  * Method visibility and access rules
+
+* Implemented inheritance in real-world scenarios
+
+---
+
+## 📅 Day 6 – Encapsulation, Abstraction, Interface & Polymorphism
+
+**(Date: 01-Jan-2026)**
+
+* Studied material:
+
+  * **06 – Encapsulation, Interface, Abstract Classes, and Polymorphism**
+
+### Concepts Learned
+
+* Encapsulation and data hiding
+* Abstract class design
+* Interface contracts
+* Runtime polymorphism and method overriding
+* Single Responsibility Principle (SRP)
+
+---
+
+## 📅 Day 7 – OOP Scenario-Based System Design
+
+**(Date: 02-Jan-2026)**
+
+* Designed and implemented real-world OOP systems
+* Hospital Patient Management System
+* Vehicle Rental Application
+* University Course Enrollment System
+* E-Wallet Application
+* Smart Home Automation System
+
+---
+
+## 📅 Day 8 – Advanced OOP System Design
+
+### Scenario-Based questions 
+
+* **CabbyGo – Ride-Hailing Backend System**
+
+  * Vehicle inheritance (Mini / Sedan / SUV)
+  * Interface-based ride services
+  * Polymorphic fare calculation
+  * Encapsulated fare and trip details
+
+* **MyBank – Account Management System**
+
+  * Base Account → Savings / Current inheritance
+  * ITransaction interface
+  * Private balance with controlled access
+  * Polymorphic interest calculation
 
 ---
 
 ## ✅ Learning Outcomes
 
-* Understood core DSA fundamentals
-* Learned internal working of linear data structures
-* Practiced stack, queue & hashing concepts
-* Gained clarity on sorting algorithm behavior
-* Improved problem‑solving using Java
+* Strong foundation in Object-Oriented Programming
+* Hands-on experience with object modeling
+* Ability to design scalable, maintainable systems
+* Practical understanding of Java OOP principles
 
 ---
 
-📌 *This README will be updated as more DSA topics are added.*
+📌 *This README will be extended as more advanced OOP concepts and projects are added.*
