@@ -156,6 +156,9 @@ java-oops-practice
 
 ## 📅 Day 8 – Advanced OOP System Design
 
+**(Date: 03-Jan-2026
+
+
 ### Scenario-Based questions 
 
 * **CabbyGo – Ride-Hailing Backend System**
@@ -183,4 +186,51 @@ java-oops-practice
 
 ---
 
-📌 *This README will be extended as more advanced OOP concepts and projects are added.*
+## 📅 Day 9 – Scenario-Based OOP Systems
+
+**(Date: 05-Jan-2026)**
+
+## Scenario-Based questions
+
+🏫 * **CampusConnect – College Information System**
+
+* Person base class → Student, Faculty
+
+* ICourseActions: enrollCourse(), dropCourse()
+
+* Course maintains students & assigned faculty
+
+* Constructors for initialization
+
+* Private student grades (encapsulation)
+
+* GPA calculation using operators
+
+* Polymorphic printDetails()
+
+🛒 * **SwiftCart – Grocery Shopping App**
+
+* Product: name, price, category
+
+* Cart: product list, totalPrice
+
+* Constructor overloading for cart creation
+
+* ICheckout: generateBill(), applyDiscount()
+
+* Encapsulated price calculations
+
+* Total & discount using operators
+
+* Inheritance: Perishable / Non-Perishable products
+
+* Polymorphic discount logic
+
+## ✅ Learning Outcomes
+
+* Strong foundation in Object-Oriented Programming
+* Hands-on experience with object modeling
+* Ability to design scalable, maintainable systems
+* Practical understanding of Java OOP principles
+
+---
