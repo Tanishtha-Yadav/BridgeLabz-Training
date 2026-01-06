@@ -25,3 +25,26 @@ https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/dsa-practice/java-ds
 
 --
 
+📅**Day 2 – Stack, Queue, HashMap & Hashing**
+
+**(Date: 03-Jan-2026)**
+
+ *Topics Covered
+ 
+  - Stack
+  - Queue
+  - HashMap
+  - Hashing Function
+
+  *Learning Outcome
+
+  - Understood LIFO and FIFO data structures
+  - Learned key-value storage using HashMap
+  - Gained clarity on hashing and data retrieval
+  
+🔗 *Repository Link
+https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/DSAConcepts/src/com/stackandqueue
+https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/DSAConcepts/src/com/hashmapsandhashfunctions
+
+--
+
