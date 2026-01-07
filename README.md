@@ -151,3 +151,30 @@ BridgeLabz-Training/
 👉 [Day 7 – Java Strings](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/Core-Java-Practice/gcr-codebase/string)
 
 ---
+### 📅 Day 8 – Extra Java String and Built-in Functions Practice Problems
+
+**(Date: 24-Dec-2025)**
+
+### 📝 Topics Covered
+
+- Extra Java String Practice Problems
+  - Strengthened practical usage of Strings through problem-solving.
+  - Implemented programs emphasizing:
+  - String handling techniques
+  - Common string functions (`length()`, `substring()`, `charAt()`, `indexOf()`, etc.)
+
+- Function usage for string operations
+  - Passing strings as function parameters and returning values from functions
+  - Extra Built-In Function Practice Problems  
+  - Focused on understanding and applying common Java built-in functions.
+  - Practiced building correct program logic using standard library methods instead of manual implementations.
+
+- Scenario-Based Programming Questions
+  - Solved 2 scenario-based problems.
+  - Applied Java fundamentals to real-world problem scenarios.
+  - Strengthened problem-solving and logical thinking skills.
+
+🔗 **Code Link**
+👉 [Day 8 – Extra java In-built Functions](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/Core-Java-Practice/gcr-codebase/EXTRAS)
+
+---
