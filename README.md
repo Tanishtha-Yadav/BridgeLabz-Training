@@ -533,6 +533,42 @@ BridgeLabz-Training/
    - Byte streams vs Character streams.
    - Importance of encoding in input handling.
 
+--
+
+## 📅 Day 19 – Algorithm Runtime Analysis & OOP Scenario-Based Programs
+
+**(Date: 07-Jan-2026)**
+
+📘 *Topics Covered*
+# 1️⃣ Algorithm Runtime & Big-O Notation
+
+ - Runtime Analysis: Evaluated algorithms by input size (N) for time and memory.
+ - Big-O Notation: Described growth rates: O(1), O(log N), O(N), O(N log N), O(N²), O(2ⁿ).
+ - Time Complexity: Best, Worst, Average cases for:
+ - Linear Search – O(N)
+ - Binary Search – O(log N)
+ - Bubble Sort – O(N²)
+ - Merge/Quick Sort – O(N log N)
+ - Recursive vs Iterative Fibonacci
+ - Space Complexity: Compared iterative vs recursive memory usage.
+ - Practical Optimization: Reduce nested loops, use efficient data structures, prefer iterative for large datasets, minimize memory allocation in loops, use mutable classes for strings (StringBuilder).
+
+# 2️⃣ OOP Scenario-Based Learning
+
+ - Applied Inheritance, Encapsulation, Polymorphism, Interfaces in real-world programs:
+ - Bank Account System – Encapsulated balance; polymorphic methods for Savings & Current accounts.
+ - Employee Payroll System – Overridden salary calculations for Full-Time & Part-Time employees.
+ - Vehicle Rental System – Polymorphic fare calculation across vehicle types.
+ - Online Shopping Cart – Encapsulated product data; applied polymorphism for discount logic.
+ - Smart Parking System – Slots assigned, charges calculated, access controlled via encapsulation.
+
+# 3️⃣ Key Takeaways
+
+ - Algorithm efficiency impacts large datasets significantly.
+ - OOP principles enable modular, reusable, and maintainable code.
+ - Combining OOP design with optimized algorithms solves real-world problems efficiently.
+
+---
 
 
 
