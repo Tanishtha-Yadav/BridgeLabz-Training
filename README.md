@@ -199,3 +199,30 @@ BridgeLabz-Training/
 👉 [Day 9 – Introduction to OOP](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject)
 
 ---
+
+## 📅 Day 10 – Constructors, Variables & Access Modifiers  
+**(Date: 27-Dec-2025)**
+
+### 📘 Topics Covered
+- Learned about **constructors** and their role in object initialization:
+  - Default constructors  
+  - Parameterized constructors  
+  - Constructor chaining using `this()`  
+  - Copy constructors  
+
+- Explored **instance variables vs class (static) variables**:
+  - Instance variables belong to individual objects.
+  - Static variables are shared across all objects of a class.
+
+- Practiced **instance methods vs static methods** and their use cases.
+
+- Gained hands-on experience with **access modifiers**:
+  - `public`
+  - `protected`
+  - `private`
+  - Understood how access levels affect visibility across classes and subclasses.
+ 
+🔗 **Code Link:**  
+👉 [Day 10 – Constructor & Access Modifiers](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructors/level1)
+
+---
