@@ -19,7 +19,6 @@ public class FitTrackApp {
 
         int totalBurned = c1 + c2;
 
-        // Operator usage
         int progress = user.getDailyTarget() - totalBurned;
 
         System.out.println("Calories Burned Today: " + totalBurned);
