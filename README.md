@@ -437,7 +437,7 @@ BridgeLabz-Training/
 ---
 
 ### 📅 Day 17 – Stack, Queue & Hashing Fundamentals  
-**(Date: 04-Jan-2026)**
+**(Date: 05-Jan-2026)**
 
 ### 📘 Topics Covered
 
@@ -494,6 +494,44 @@ BridgeLabz-Training/
 🔗 **Code Link:**  
 👉 [*Day 17 – Stack, Queue & HashMap Implementations*](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/DSAConcepts/src/com/stackandqueue)
  [*Day 17 – Scenario-Based OOP Programs*](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day3)
+
+ -- 
+ ##📅 Day 18 – String Handling, I/O Streams & Searching Basics
+**(Date: 06-Jan-2026)**
+
+
+##📘 Topics Covered
+
+- Studied Mutable String Classes in Java:
+  - StringBuilder
+   - Mutable sequence of characters.
+   - Faster than StringBuffer (not thread-safe).
+   - Common methods: append(), insert(), delete(), reverse().
+   - Used in performance-critical string manipulation.
+    
+  - StringBuffer
+   - Mutable and thread-safe (synchronized).
+   - Slower than StringBuilder due to synchronization.
+   - Used in multi-threaded environments.
+     
+  - Compared:
+   - String vs StringBuilder vs StringBuffer
+   - Mutability, performance, and thread safety differences.
+     
+ - Explored Java I/O Stream Classes:
+  - FileReader
+  - Reads character data from files.
+  - Suitable for text-based file input.
+  - Used for reading files character by character.
+
+  - InputStreamReader
+   - Bridges byte streams to character streams.
+   - Converts byte input into characters using encoding.
+   - Commonly used with System.in and FileInputStream.
+   - 
+  - Understood:
+   - Byte streams vs Character streams.
+   - Importance of encoding in input handling.
 
 
 
