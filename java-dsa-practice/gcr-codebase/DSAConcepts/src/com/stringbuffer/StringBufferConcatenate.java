@@ -1,4 +1,4 @@
-package com.stringbufferconcatenate;
+package com.stringbuffer;
 
 public class StringBufferConcatenate {
 
