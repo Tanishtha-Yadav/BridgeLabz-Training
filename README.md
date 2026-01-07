@@ -289,3 +289,36 @@ BridgeLabz-Training/
 
 ---
 
+### 📅 Day 13 – Inheritance & Types of Inheritance in Java  
+**(Date: 31-Dec-2025)**
+
+### 📘 Topics Covered
+
+- Learned the concept of **Inheritance** in Object-Oriented Programming:
+  - Reusing properties and behaviors of an existing class.
+  - Promoting code reusability and logical hierarchy.
+  - Understanding the `extends` keyword.
+
+- Explored different **types of inheritance supported in Java**:
+  - **Single Inheritance** – One child class inherits from one parent class.
+  - **Multilevel Inheritance** – A class derived from another derived class.
+  - **Hierarchical Inheritance** – Multiple subclasses inherit from a single parent class.
+  - **Multiple Inheritance (via Interfaces)** – Achieved using interfaces since Java does not support multiple inheritance with classes.
+  - **Hybrid Inheritance (conceptual)** – Combination of multiple and multilevel inheritance using interfaces.
+
+- Practiced usage of:
+  - `super` keyword to access parent class constructors and methods.
+  - Method overriding and runtime polymorphism.
+  - Accessing inherited members based on access modifiers.
+
+- Implemented real-world examples such as:
+  - Person → Waiter → Chef hierarchy
+  - Vehicle → Electrical Vehicle
+  - Student → Teacher → Staff 
+
+🔗 **Code Link:**  
+👉 [Day 13 – Inheritance & Types of Inheritance](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
+
+---
+
+
