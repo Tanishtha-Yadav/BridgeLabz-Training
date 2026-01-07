@@ -91,3 +91,22 @@ https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/dsa-practice/java-ds
  
 ---
 
+## 📅 Day 5 – Algorithm Runtime Analysis & OOP Scenario-Based Programs
+
+**(Date: 07-Jan-2026)**
+
+📘 *Topics Covered*
+# 1️⃣ Algorithm Runtime & Big-O Notation
+
+ - Runtime Analysis: Evaluated algorithms by input size (N) for time and memory.
+ - Big-O Notation: Described growth rates: O(1), O(log N), O(N), O(N log N), O(N²), O(2ⁿ).
+ - Time Complexity: Best, Worst, Average cases for:
+ - Linear Search – O(N)
+ - Binary Search – O(log N)
+ - Bubble Sort – O(N²)
+ - Merge/Quick Sort – O(N log N)
+ - Recursive vs Iterative Fibonacci
+ - Space Complexity: Compared iterative vs recursive memory usage.
+ - Practical Optimization: Reduce nested loops, use efficient data structures, prefer iterative for large datasets, minimize memory allocation in loops, use mutable classes for strings (StringBuilder).
+
+
