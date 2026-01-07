@@ -432,8 +432,69 @@ BridgeLabz-Training/
 
 🔗 **Code Link:**  
 👉 [*Day 16 – Scenario-Based OOP Programs*](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day2)
+ [*Day 16 – Linked List*](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/DSAConcepts/src/com/linkedlist)
 
 ---
+
+### 📅 Day 17 – Stack, Queue & Hashing Fundamentals  
+**(Date: 04-Jan-2026)**
+
+### 📘 Topics Covered
+
+- Studied **Stack Data Structure (LIFO)**:
+  - Understood core operations: `push`, `pop`, `peek`, `isEmpty`.
+  - Explored real-world use cases:
+    - Function call stack in recursion.
+    - Undo/Redo operations.
+    - Expression evaluation and parenthesis matching.
+  - Implemented **Balanced Parentheses Checker** using Stack:
+    - Validated proper nesting of `()`, `{}`, and `[]`.
+    - Applied stack-based traversal and matching logic.
+  - Analyzed:
+    - Time Complexity: **O(n)**
+    - Space Complexity: **O(n)**
+
+- Learned **Queue Data Structure (FIFO)**:
+  - Understood key operations: `offer`, `poll`, `peek`, `isEmpty`.
+  - Explored Java Queue implementations:
+    - `LinkedList`
+    - `PriorityQueue`
+    - `ArrayDeque`
+  - Implemented **Ticket Counter Management System**:
+    - Enqueued customers as they arrived.
+    - Dequeued customers in order of service.
+  - Studied queue usage in:
+    - Task scheduling.
+    - BFS traversal.
+    - Request handling systems.
+
+- Explored **HashMap & Hashing Concepts**:
+  - Understood key-value pair storage using `HashMap`.
+  - Learned core methods: `put`, `get`, `remove`, `containsKey`.
+  - Implemented word frequency counting using HashMap.
+  - Studied internal working of HashMap:
+    - Hashing and bucket indexing.
+    - Collision handling using separate chaining.
+    - Load factor (default: 0.75) and resizing.
+  - Compared:
+    - `HashMap` vs `LinkedHashMap`
+    - `HashMap` vs `ConcurrentHashMap`
+
+- Learned **Hashing Functions in Java**:
+  - Understood `hashCode()` and its role in hash-based collections.
+  - Studied rules for overriding `hashCode()` and `equals()`.
+  - Implemented custom `hashCode()` for user-defined classes.
+  - Learned best practices to minimize collisions and ensure consistency.
+
+- Focused on:
+  - Choosing the right data structure based on problem requirements.
+  - Understanding internal mechanics for interview readiness.
+  - Writing clean, efficient, and safe data-structure-based code.
+
+🔗 **Code Link:**  
+👉 [*Day 17 – Stack, Queue & HashMap Implementations*](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/DSAConcepts/src/com/stackandqueue)
+ [*Day 17 – Scenario-Based OOP Programs*](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day3)
+
 
 
 
