@@ -355,4 +355,44 @@ BridgeLabz-Training/
 
 ---
 
+### 📅 Day 15 – Scenario-Based Programming using OOP Concepts  
+**(Date: 02-Jan-2026)**
+
+### 📘 Topics Covered
+
+- Implemented **Encapsulation** through real-world scenarios:
+  - Used `private` data members to protect sensitive information.
+  - Applied getters and setters to validate and control data access.
+  - Ensured data integrity by restricting direct object manipulation.
+
+- Applied **Polymorphism** in scenario-based problems:
+  - Used method overriding to achieve runtime polymorphism.
+  - Demonstrated dynamic method dispatch using parent class references.
+  - Improved flexibility and scalability of code design.
+
+- Solved real-world OOP scenarios:
+  - **Bank Account System**
+    - Encapsulated account details such as balance and account number.
+    - Overrode methods for different account types (Savings, Current).
+  - **Employee Payroll System**
+    - Calculated salary differently for Full-Time and Part-Time employees using polymorphism.
+  - **Vehicle Rental System**
+    - Implemented polymorphic behavior for fare calculation across vehicle types.
+  - **Online Shopping Cart**
+    - Encapsulated product data and applied polymorphism for discount calculation.
+
+- Focused on:
+  - Designing classes based on real-world entities.
+  - Writing reusable and extensible code.
+  - Clean separation of responsibilities using OOP principles.
+  - Improving logical thinking and problem-solving skills.
+
+- Tested all scenarios thoroughly and pushed implementations to the GitHub repository.
+
+🔗 **Code Link:**  
+👉 [*Day 15 – Scenario-Based OOP Programs (Encapsulation & Polymorphism)*](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day1)
+
+--- 
+
+
 
