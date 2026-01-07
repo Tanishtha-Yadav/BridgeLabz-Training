@@ -321,4 +321,38 @@ BridgeLabz-Training/
 
 ---
 
+### 📅 Day 14 – Encapsulation, Interfaces, Abstract Classes & Polymorphism  
+**(Date: 01-Jan-2026)**
+
+### 📘 Topics Covered
+
+- Learned and implemented **Encapsulation**:
+  - Used `private` variables to protect data.
+  - Applied getters and setters to provide controlled access.
+
+- Understood **Polymorphism** concepts:
+  - Method overloading (compile-time polymorphism).
+  - Method overriding (runtime polymorphism).
+  - Achieved flexible and reusable code using dynamic method dispatch.
+
+- Studied **Interfaces**:
+  - Used to achieve multiple inheritance in Java.
+  - Enforced method contracts across implementing classes.
+
+- Learned **Abstract Classes**:
+  - Used for abstraction by defining abstract and non-abstract methods.
+  - Enabled partial implementation and code reuse.
+
+- Implemented practical programs focusing on:
+  - Object-oriented design principles.
+  - Real-world modeling using OOP concepts.
+  - Clean and maintainable code structure.
+
+- Pushed all implementations to the GitHub repository.
+
+🔗 **Code Link:**  
+👉 [*Day 14 – Encapsulation, Interfaces, Abstract Classes & Polymorphism*](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulation?authuser=0)
+
+---
+
 
