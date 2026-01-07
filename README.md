@@ -118,3 +118,20 @@ BridgeLabz-Training/
 👉 [Day 5 – Java Arrays](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/Core-Java-Practice/gcr-codebase/arrays)
 
 ---
+
+### 📅 Day 6 – Java Methods  
+**(Date: 20-Dec-2025)**
+
+- Studied Java methods:
+  - User-defined and reusable methods  
+  - Passing parameters and returning values  
+  - Recursive methods  
+  - Static and library methods  
+
+- Solved practice problems using methods.
+- Committed and pushed solutions to the repository.
+
+🔗 **Code Link:**  
+👉 [Day 6 – Java Methods](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/Core-Java-Practice/gcr-codebase/methods)
+
+---
