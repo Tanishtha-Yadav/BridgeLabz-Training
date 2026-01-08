@@ -584,7 +584,7 @@ BridgeLabz-Training/
  - Performed operator-based calculations for totals and discounts.
 
 🔗 Code Link:
-👉 Day 17 – MediStore & TourMate App
+👉 Day 20 – MediStore & TourMate App
 [(https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day6)]
 
 
