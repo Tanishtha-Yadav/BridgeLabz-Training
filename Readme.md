@@ -293,3 +293,22 @@ java-oops-practice
 👉 **Day 10 – Scenario-Based OOP Implementations**[(https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day5/)]
 
 --
+
+## Day 12 – Scenario-Based Design & OOP Case Studies
+
+**(Date: 08-Jan-2026)**
+
+# 📘 Topics Covered
+ - Designed real-world applications using Object-Oriented Programming concepts.
+ - Converted problem statements into classes, interfaces, and relationships.
+ - Implemented pharmacy inventory and travel planning systems.
+ - Applied encapsulation to protect sensitive data.
+ - Used inheritance to model specialized behaviors.
+ - Implemented runtime polymorphism for dynamic logic execution.
+ - Performed operator-based calculations for totals and discounts.
+
+🔗 Code Link:
+👉 Day 12 – MediStore & TourMate App
+[(https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day6)]
+
+
