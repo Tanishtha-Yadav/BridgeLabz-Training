@@ -587,4 +587,43 @@ BridgeLabz-Training/
 👉 Day 20 – MediStore & TourMate App
 [(https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day6)]
 
+--
 
+ ## 📅 Day 21 – Scenario-Based OOP Applications
+
+**(Date: 09-Jan-2026)**
+
+🎨 **Artify – Digital Art Marketplace**
+
+ - Artwork base class → DigitalArt, PrintArt
+ - IPurchasable interface for purchase & licensing
+ - Encapsulation for licensing terms
+ - Constructors with/without previews
+ - Polymorphism for art-specific licensing
+
+🍔 **FoodLoop – Restaurant Ordering System**
+
+ - FoodItem base class → VegItem, NonVegItem
+ - Order class with combo meals
+ - IOrderable interface
+ - Total = price − discount (operators)
+ - Polymorphic discount logic
+
+🎓 **SkillForge – Online Learning Portal**
+
+ - User → Student, Instructor
+ - Course with modules & ratings
+ - ICertifiable interface
+ - Encapsulation for rating logic
+ - Polymorphic certificate formats
+
+✅ *Learning Outcomes*
+
+ - Applied inheritance, interfaces, polymorphism
+ - Practiced encapsulation and access control
+ - Designed real-world OOP systems
+
+ 🔗 *Code Link*
+👉 **Day 10 – Scenario-Based OOP Implementations**[(https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day7)]
+
+--
