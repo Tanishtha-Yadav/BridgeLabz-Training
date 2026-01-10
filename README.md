@@ -624,6 +624,60 @@ BridgeLabz-Training/
  - Designed real-world OOP systems
 
  🔗 *Code Link*
-👉 **Day 10 – Scenario-Based OOP Implementations**[(https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day7)]
+👉 **Scenario-Based OOP Implementations**[(https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day7)]
 
 --
+
+## 📅 Day 22 – Scenario-Based Data Structures
+
+**(Date: 10-01-2026)**
+
+Real-world problems using core Data Structures.
+---
+
+## 📖 1. BookShelf – Library Organizer  
+**DS:** HashMap + LinkedList (+ HashSet)
+
+- Genre → list of books
+- Add / remove books dynamically
+- Prevent duplicates (optional)
+
+**Why:**  
+HashMap for fast lookup, LinkedList for efficient insert/delete
+
+---
+
+## 💻 2. BrowserBuddy – Tab History Manager  
+**DS:** Doubly Linked List + Stack
+
+- Back / Forward navigation
+- Restore closed tabs
+- Efficient pointer-based history
+
+**Why:**  
+DLL for bidirectional navigation, Stack for LIFO restore
+
+---
+
+## 🏥 3. AmbulanceRoute – Emergency Navigation  
+**DS:** Circular Linked List
+
+- Circular unit traversal
+- Find nearest available unit
+- Remove unit under maintenance
+
+**Why:**  
+Continuous rotation without null checks
+
+---
+
+## Key Concepts
+- Linked Lists (Singly, Doubly, Circular)
+- Stack operations
+- HashMap indexing
+- Real-world DS selection
+
+---
+
+
+
