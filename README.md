@@ -170,3 +170,45 @@ Continuous rotation without null checks
 https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/JavaDSAScenario/src/com/day1
 
 ---
+
+## 📅 Day 7 – Scenario-Based Data Structures
+
+**(Date: 12-01-2026)**
+
+## Real-world problems using core Data Structures.
+
+## Problems Implemented
+
+### 1. CallCenter – Customer Queue Manager  
+**Data Structures:** Queue, PriorityQueue, HashMap  
+- FIFO handling for normal customers  
+- Priority handling for VIP customers  
+- Call frequency tracking using HashMap  
+
+---
+
+### 2. TrainCompanion – Compartment Navigation System  
+**Data Structure:** Doubly Linked List  
+- Forward and backward traversal  
+- Dynamic insertion and removal of compartments  
+- Adjacent compartment navigation  
+
+---
+
+### 3. TextEditor – Undo / Redo Functionality  
+**Data Structure:** Stack  
+- Insert and delete operations  
+- Undo using stack (LIFO)  
+- Redo using separate stack  
+
+---
+
+## Key Concepts
+- Scenario-based data structure selection  
+- Efficient state management  
+- Real-world problem modeling in Java
+
+🔗 \*Repository Link
+https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/JavaDSAScenario/src/com/day2\
+
+--
