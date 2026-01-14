@@ -721,5 +721,35 @@ https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/dsa-practice/java-ds
 
 --
 
+## 📅 Day 8 – Scenario-Based Data Structures
+
+**(Date: 13-01-2026)**
+
+## Real-world problems using core Data Structures.
+
+## 7. TrafficManager – Roundabout Vehicle Flow
+**DS Used:** Circular Linked List, Queue
+Vehicles move in a circular path; incoming vehicles wait in a queue. Supports add/remove, overflow/underflow, and state display.
+---
+## 8. BookShelf – Library Organizer
+**DS Used:** HashMap, LinkedList (+ optional HashSet)
+Genre-wise book management with fast insert/delete and optional duplicate prevention.
+---
+## 9. SmartCheckout – Supermarket Billing Queue
+**DS Used:** Queue, HashMap
+Customer billing system with queued checkout, quick price lookup, and stock updates.
+---
+## 10. ParcelTracker – Delivery Chain Management
+**DS Used:** Singly Linked List
+Tracks parcel stages sequentially with support for intermediate checkpoints and missing parcel handling.
+---
+## 11. ExamProctor – Online Exam Review System
+**DS Used:** Stack, HashMap, Functions
+Tracks question navigation, stores answers, and auto-calculates exam score.
+---
+
+**Language:** Java
+**Purpose:** Academic practice and DS concept clarity
+
 
 
