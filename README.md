@@ -716,8 +716,8 @@ Continuous rotation without null checks
 - Efficient state management  
 - Real-world problem modeling in Java
 
-🔗 \*Repository Link
-https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/JavaDSAScenario/src/com/day2\
+🔗 *Code Link*
+👉 **Scenario-Based DSA Implementations**[(https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/JavaDSAScenario/src/com/day2)]
 
 --
 
@@ -727,29 +727,67 @@ https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/dsa-practice/java-ds
 
 ## Real-world problems using core Data Structures.
 
-## 7. TrafficManager – Roundabout Vehicle Flow
-**DS Used:** Circular Linked List, Queue
-Vehicles move in a circular path; incoming vehicles wait in a queue. Supports add/remove, overflow/underflow, and state display.
----
-## 8. BookShelf – Library Organizer
-**DS Used:** HashMap, LinkedList (+ optional HashSet)
-Genre-wise book management with fast insert/delete and optional duplicate prevention.
----
-## 9. SmartCheckout – Supermarket Billing Queue
-**DS Used:** Queue, HashMap
-Customer billing system with queued checkout, quick price lookup, and stock updates.
----
-## 10. ParcelTracker – Delivery Chain Management
-**DS Used:** Singly Linked List
-Tracks parcel stages sequentially with support for intermediate checkpoints and missing parcel handling.
----
-## 11. ExamProctor – Online Exam Review System
-**DS Used:** Stack, HashMap, Functions
-Tracks question navigation, stores answers, and auto-calculates exam score.
+## Problems Implemented
+
 ---
 
-**Language:** Java
-**Purpose:** Academic practice and DS concept clarity
+### 7. TrafficManager – Roundabout Vehicle Flow  
+**Data Structures:** Circular Linked List, Queue  
+- Vehicles move in a circular path inside a roundabout  
+- Incoming vehicles wait in a queue before entering  
+- Supports add/remove operations  
+- Handles queue overflow and underflow  
+- Displays current roundabout state  
 
+---
+
+### 8. BookShelf – Library Organizer  
+**Data Structures:** HashMap, LinkedList (+ optional HashSet)  
+- Maintains genre-wise book catalog  
+- Dynamic insertion and deletion of books  
+- Fast lookup using HashMap  
+- Optional duplicate prevention using HashSet  
+
+---
+
+### 9. SmartCheckout – Supermarket Billing Queue  
+**Data Structures:** Queue, HashMap  
+- Customers are processed in FIFO order  
+- Item prices and stock fetched using HashMap  
+- Stock updated after each purchase  
+- Simulates real-time checkout billing system  
+
+---
+
+### 10. ParcelTracker – Delivery Chain Management  
+**Data Structure:** Singly Linked List  
+- Tracks parcel stages sequentially  
+- Supports adding intermediate checkpoints  
+- Forward-only traversal of delivery stages  
+- Handles missing or lost parcel scenarios  
+
+---
+
+### 11. ExamProctor – Online Exam Review System  
+**Data Structures:** Stack, HashMap, Functions  
+- Tracks question navigation using Stack (LIFO)  
+- Stores answers using HashMap  
+- Auto-evaluates score on submission  
+- Clean separation of logic using functions  
+
+---
+
+## Key Concepts
+- Scenario-based data structure selection  
+- Real-world modeling using Java  
+- Efficient use of linear and non-linear DS  
+- Understanding traversal, insertion, and deletion logic  
+
+**Language:** Java  
+**Purpose:** Academic practice and Data Structure concept clarity
+
+🔗 *Code Link*
+👉 **Scenario-Based DSA Implementations**[(https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/JavaDSAScenario/src/com/day2)]
+[(https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/JavaDSAScenario/src/com/day3)]
 
 
