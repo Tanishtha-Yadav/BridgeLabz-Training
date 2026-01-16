@@ -787,7 +787,66 @@ Continuous rotation without null checks
 **Purpose:** Academic practice and Data Structure concept clarity
 
 🔗 *Code Link*
-👉 **Scenario-Based DSA Implementations**[(https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/JavaDSAScenario/src/com/day2)]
+👉 **Scenario-Based DSA Implementations**
+[(https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/JavaDSAScenario/src/com/day2)]
 [(https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/JavaDSAScenario/src/com/day3)]
 
+--
 
+## 📅 Day 8 – Scenario-Based Data Structures
+
+**(Date: 14-01-2026)**
+
+## Real-world problems using core Data Structures.
+## Problems Implemented
+---
+### 1. HospitalQueue – Patient Sorting by Criticality
+Algorithm: Bubble Sort
+ - Patients sorted by criticality before bed assignment
+ - Small dataset allows simple in-place sorting
+ - Adjacent patient records swapped
+ - 
+### 2. SmartShelf – Real-Time Book Arrangement
+Algorithm: Insertion Sort
+ - Books added one at a time and kept alphabetically sorted
+ - Works efficiently on mostly sorted data
+ - Stable sorting preserves order
+ - 
+### 3. ZipZipMart – Daily Sales Summary
+Algorithm: Merge Sort
+ - Large volume of sales records from multiple branches
+ - Divide-and-conquer approach ensures efficiency
+ - Maintains stability for equal records
+
+### 4. RoboWarehouse – Shelf Loading Robot
+Algorithm: Insertion Sort
+ - Packages inserted dynamically by weight
+ - Maintains sorted order continuously
+ - Uses minimal extra memory
+
+### 5. CinemaHouse – Movie Time Sorting
+Algorithm: Bubble Sort
+ - Small number of daily shows
+ - Easy to implement and maintain
+ - Suitable for manual updates
+
+### 6. CropMonitor – Sensor Data Ordering
+Algorithm: Quick Sort
+ - Large unordered sensor data sorted by timestamp
+ - Fast average-case performance
+ - Efficient partition-based sorting
+
+**Key Concepts**
+ - Scenario-based algorithm selection
+ - Time–space trade-offs
+ - Stable and in-place sorting
+
+**Language: Java**
+**Purpose: Sorting algorithm practice and clarity**
+
+🔗 *Code Link*
+👉 **Scenario-Based DSA Implementations**
+[(https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/JavaDSAScenario/src/com/day4)]
+[(https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/JavaDSAScenario/src/com/day5)]
+
+--
