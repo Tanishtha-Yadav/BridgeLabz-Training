@@ -850,3 +850,117 @@ Algorithm: Quick Sort
 [(https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/JavaDSAScenario/src/com/day5)]
 
 --
+
+**(Date: 17-01-2026)**
+
+## 📘 Scenario-Based Problems – Java (OOP + Sorting Algorithms)
+
+**real-world, scenario-based Java problems** designed to strengthen understanding of **Object-Oriented Programming concepts** and **core sorting algorithms**.
+---
+## 🧩 OOP Concepts – Scenario-Based Problems
+
+### 1. GeoMeasure Solutions – Line Comparison System
+**OOP Concepts:** Classes, Objects, Constructors, Encapsulation, Methods, `this` keyword
+* Accepts coordinates of two line segments
+* Calculates length using a method
+* Compares line lengths (equal / longer / shorter)
+* Encapsulates line data using private fields
+* Initializes objects using constructors
+* *(Bonus)* Stores multiple line comparisons using a list
+  
+---
+
+### 2. Bag-n-Ball Organizer
+**OOP Concepts:** Classes, Objects, Encapsulation, Composition (Has-a relationship)
+* Bag has ID, color, capacity
+* Ball has ID, color, size
+* Add balls to bag (up to capacity)
+* Remove balls from bag
+* Display balls in a bag
+* Display all bags with ball count
+* Prevent overflow when bag is full
+* *(Bonus)* Interface-based design using `Storable`
+---
+## 🔁 Sorting Algorithms – Real-World Scenarios
+
+### 3. IceCreamRush – Sorting Flavors by Popularity
+**Algorithm:** Bubble Sort
+* Small dataset (≈8 flavors)
+* Repeated adjacent comparisons
+* Simple in-place sorting
+---
+### 4. SmartLibrary – Auto-Sort Borrowed Books
+**Algorithm:** Insertion Sort
+* Books inserted one at a time
+* Alphabetical ordering by title
+* Efficient for nearly sorted lists
+---
+### 5. ArtExpo – Sort Artists by Registration Time
+**Algorithm:** Insertion Sort
+* Continuous real-time registration
+* Maintains sorted order by time
+* Best for incremental data
+---
+### 6. FleetManager – Vehicle Maintenance Scheduler
+**Algorithm:** Merge Sort
+* Depot-wise sorted vehicle lists
+* Merges into a master schedule
+* Efficient for large datasets
+---
+## 🧠 Key Learning Outcomes
+* Practical application of OOP principles
+* Scenario-based algorithm selection
+* Understanding time and space trade-offs
+* Stable vs unstable sorting
+* In-place vs memory-intensive algorithms
+
+---
+
+**Language:** Java
+**Focus:** Clean design, real-world modeling, algorithm clarity
+
+🔗 **Code Link -** 
+[*Data Structure and algorithms-Scenario based*](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/JavaDSAScenario/src/com/day6)
+
+--
+
+📅 **Day 11 – Real time-Scenario-Based Data Structures**
+
+**(Date: 19-01-2026)**
+
+## Problems Implemented
+## 1. EduResults – Rank Sheet Generator
+**Algorithm: Merge Sort**
+ - Merges district-wise sorted student lists
+ - Efficient for large datasets
+ - Stable sorting for equal scores
+
+--
+
+## 2. FlashDealz – Product Sorting by Discount
+**Algorithm: Quick Sort**
+ - Handles large, unsorted product data
+ - Fast average-case performance
+ - In-place sorting for efficiency
+
+--
+
+## 3. FitnessTracker – Daily Step Count Ranking
+**Algorithm: Bubble Sort**
+ - Small user group
+ - Frequent real-time updates
+ - Simple adjacent swaps
+
+*Key Concepts*
+ - Scenario-based algorithm choice
+ - Performance vs simplicity
+ - Stable and in-place sorting
+
+**Language: Java**
+
+🔗 **Code Link -**
+[*Data Structure and algorithms-Scenario based*](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/JavaDSAScenario/src/com/day7)
+
+--
+
+
