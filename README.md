@@ -212,3 +212,92 @@ https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/dsa-practice/java-ds
 https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/JavaDSAScenario/src/com/day2\
 
 --
+
+**(Date: 17-01-2026)**
+
+## 📘 Scenario-Based Problems – Java (Sorting Algorithms)
+
+**real-world, scenario-based Java problems** designed to strengthen understanding of **core sorting algorithms**.
+---
+
+## 🔁 Sorting Algorithms – Real-World Scenarios
+
+### 3. IceCreamRush – Sorting Flavors by Popularity
+**Algorithm:** Bubble Sort
+* Small dataset (≈8 flavors)
+* Repeated adjacent comparisons
+* Simple in-place sorting
+---
+### 4. SmartLibrary – Auto-Sort Borrowed Books
+**Algorithm:** Insertion Sort
+* Books inserted one at a time
+* Alphabetical ordering by title
+* Efficient for nearly sorted lists
+---
+### 5. ArtExpo – Sort Artists by Registration Time
+**Algorithm:** Insertion Sort
+* Continuous real-time registration
+* Maintains sorted order by time
+* Best for incremental data
+---
+### 6. FleetManager – Vehicle Maintenance Scheduler
+**Algorithm:** Merge Sort
+* Depot-wise sorted vehicle lists
+* Merges into a master schedule
+* Efficient for large datasets
+---
+## 🧠 Key Learning Outcomes
+* Practical application of OOP principles
+* Scenario-based algorithm selection
+* Understanding time and space trade-offs
+* Stable vs unstable sorting
+* In-place vs memory-intensive algorithms
+
+---
+
+**Language:** Java
+**Focus:** Clean design, real-world modeling, algorithm clarity
+
+🔗 **Code Link -** 
+[*Data Structure and algorithms-Scenario based*](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/JavaDSAScenario/src/com/day6)
+
+--
+
+📅 **Day 11 – Real time-Scenario-Based Data Structures**
+
+**(Date: 19-01-2026)**
+
+## Problems Implemented
+## 1. EduResults – Rank Sheet Generator
+**Algorithm: Merge Sort**
+ - Merges district-wise sorted student lists
+ - Efficient for large datasets
+ - Stable sorting for equal scores
+
+--
+
+## 2. FlashDealz – Product Sorting by Discount
+**Algorithm: Quick Sort**
+ - Handles large, unsorted product data
+ - Fast average-case performance
+ - In-place sorting for efficiency
+
+--
+
+## 3. FitnessTracker – Daily Step Count Ranking
+**Algorithm: Bubble Sort**
+ - Small user group
+ - Frequent real-time updates
+ - Simple adjacent swaps
+
+*Key Concepts*
+ - Scenario-based algorithm choice
+ - Performance vs simplicity
+ - Stable and in-place sorting
+
+**Language: Java**
+
+🔗 **Code Link -**
+[*Data Structure and algorithms-Scenario based*](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/JavaDSAScenario/src/com/day7)
+
+--
