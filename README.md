@@ -981,7 +981,7 @@ Algorithm: Quick Sort
 ✅ *Learning Outcomes*
 - Matched sorting algorithms to real-world scenarios  
 - Understood performance trade-offs in dynamic data
-- 
+  
 🔗 **Code Link -**
 [*Data Structure and algorithms-Scenario based*](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/JavaDSAScenario/src/com/day8)
 
