@@ -300,4 +300,31 @@ https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/dsa-practice/java-ds
 🔗 **Code Link -**
 [*Data Structure and algorithms-Scenario based*](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/JavaDSAScenario/src/com/day7)
 
+---
+
+
+## 📅 Day 12 – Scenario-Based Sorting Applications  
+**(Date: 20-Jan-2026)**
+
+🎬 **MovieTime – Theater Show Listings (Insertion Sort)**
+- Nearly sorted showtimes with real-time insertion  
+- Insertion Sort for efficient time-based ordering  
+
+🍔 **FoodFest – Stall Footfall Analysis (Merge Sort)**
+- Zone-wise sorted footfall data merged  
+- Merge Sort ensures stability and accuracy  
+
+🎮 **GamerZone – High Score Ranking System (Quick Sort)**
+- Large, dynamic, unsorted player scores  
+- Quick Sort for fast leaderboard updates  
+
+✅ *Learning Outcomes*
+- Matched sorting algorithms to real-world scenarios  
+- Understood performance trade-offs in dynamic data
+- 
+🔗 **Code Link -**
+[*Data Structure and algorithms-Scenario based*](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/JavaDSAScenario/src/com/day8)
+
 --
+
+
