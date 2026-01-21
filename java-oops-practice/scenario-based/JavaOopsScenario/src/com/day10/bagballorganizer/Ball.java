@@ -1,4 +1,4 @@
-package com.day11.bagballorganizer;
+package com.day10.bagballorganizer;
 
 
 public class Ball implements Storable {
