@@ -328,3 +328,28 @@ https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/dsa-practice/java-ds
 --
 
 
+## 📅 Day 13 – Scenario-Based Sorting Applications
+
+**(Date: 21-Jan-2026)**
+
+👗 **TailorShop – Sorting Orders by Delivery Deadline (Insertion Sort)**
+ - New clothing orders received hourly with deadlines
+ - Maintains a nearly sorted list; inserts new orders in correct position
+ - Insertion Sort enables real-time updates and deadline-based sorting
+
+💊 **MedWarehouse – Sorting Medicines by Expiry (Merge Sort)**
+ - Handles medicine records from multiple branches, each already sorted by expiry
+ - Uses Merge Sort to compile all expiry dates into a master list
+ - Ensures critical medicines nearing expiration are flagged promptly
+
+✅ *Learning Outcomes*
+ - Applied Insertion Sort to dynamic, nearly sorted real-time data
+ - Applied Merge Sort to merge multiple sorted sublists efficiently
+ - Understood algorithm choices for time-sensitive and critical inventory management
+
+🔗 **Code Link -**
+[*Data Structure and algorithms-Scenario based*](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/JavaDSAScenario/src/com/day9)
+
+--
+
+
