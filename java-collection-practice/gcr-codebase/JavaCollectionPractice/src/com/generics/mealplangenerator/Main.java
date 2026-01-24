@@ -1,4 +1,4 @@
-package com.generics.mealplangerator;
+package com.generics.mealplangenerator;
 
 public class Main {
 	public static void main(String[] args) {
