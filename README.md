@@ -3,13 +3,28 @@
 This README documents my **day-wise learning progress** in **BridgeLabz training**. The focus is on conceptual clarity, object modeling, clean code practices, and real‑world scenario-based design.
 
 ### 📅 Day 1 – Git & GitHub Setup  
-**(Date: 16-Dec-2025)**
+**(Date: 15-Dec-2025)**
 
 - Installed and configured Git.
 - Set up GitHub repository.
 - Understood basic Git workflow.
-
 ---
+- Learned basic Git commands:
+  - `git init`
+  - `git clone`
+  - `git add`
+  - `git commit`
+  - `git push`
+- Successfully pushed files to remote repository.
+  
+---
+
+### 📅 Day 2 – Git Practice & Basic Java Programs  
+**(Date: 16-Dec-2025)**
+
+- Practiced Git workflow to understand commits and version control.
+- Solved basic Java programs to understand syntax and structure.
+- Practiced adding, committing, and pushing Java files to GitHub.
 
 ## 📂 Project Structure
 
@@ -45,31 +60,13 @@ BridgeLabz-Training/
 
 
 ```
-
----
-
-- Learned basic Git commands:
-  - `git init`
-  - `git clone`
-  - `git add`
-  - `git commit`
-  - `git push`
-- Successfully pushed files to remote repository.
-
-  ---
-### 📅 Day 2 – Git Practice & Basic Java Programs  
-**(Date: 17-Dec-2025)**
-
-- Practiced Git workflow to understand commits and version control.
-- Solved basic Java programs to understand syntax and structure.
-- Practiced adding, committing, and pushing Java files to GitHub.
-
 🔗 **Code Link:**  
 👉 [Day 2 – Basic Java Programs](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/Core-Java-Practice/gcr-codebase/programming-prerequisites)
 
 ---
+
 ### 📅 Day 3 – Programming Elements in Java  
-**(Date: 18-Dec-2025)**
+**(Date: 17-Dec-2025)**
 
 - Studied core Java programming elements:
   - Variables and Data Types  
@@ -151,9 +148,9 @@ BridgeLabz-Training/
 👉 [Day 7 – Java Strings](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/Core-Java-Practice/gcr-codebase/string)
 
 ---
-### 📅 Day 8 – Extra Java String and Built-in Functions Practice Problems
 
-**(Date: 24-Dec-2025)**
+### 📅 Day 8 – Extra Java String and Built-in Functions Practice Problems
+**(Date: 23-Dec-2025)**
 
 ### 📝 Topics Covered
 
@@ -164,21 +161,58 @@ BridgeLabz-Training/
   - Common string functions (`length()`, `substring()`, `charAt()`, `indexOf()`, etc.)
 
 - Function usage for string operations
-  - Passing strings as function parameters and returning values from functions
+  - Passing strings as function parameters and returning values from           functions
   - Extra Built-In Function Practice Problems  
   - Focused on understanding and applying common Java built-in functions.
   - Practiced building correct program logic using standard library methods instead of manual implementations.
-
-- Scenario-Based Programming Questions
-  - Solved 2 scenario-based problems.
-  - Applied Java fundamentals to real-world problem scenarios.
-  - Strengthened problem-solving and logical thinking skills.
 
 🔗 **Code Link**
 👉 [Day 8 – Extra java In-built Functions](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/Core-Java-Practice/gcr-codebase/EXTRAS)
 
 ---
-### 📅 Day 9 – Introduction to Object-Oriented Programming  
+
+## Day 9 -  Scenario-Based Core Java Practice Problems
+**(Date: 23-Dec-2025)**
+
+The programs have the following concepts:
+- Variables, literals, and primitive data types
+- Basic input and output using Scanner
+- Operators
+- Conditional logic using if, else, ternary, and switch
+- Loops such as for, while, do-while, and for-each
+- Control flow using break and continue
+- Clean code practices including proper naming, indentation, and comments
+
+**(1).The Coffee Counter Chronicles**
+- Ravi runs a café where customers order different types of coffee with      specific quantities.
+
+*Scenarios:*
+- Scenario 1: Coffee Selection — Ask the user to select a coffee type        using switch.
+- Scenario 2: Billing Calculation — Accept quantity, calculate total         price, and add GST.
+- Scenario 3: Continuous Orders — Serve multiple customers using a while     loop until the user types "exit".
+
+**(2).Maya’s BMI Fitness Tracker**
+Maya is a fitness coach who calculates BMI for her clients.
+
+*Scenarios:*
+- Scenario 1: Input Collection — Take height and weight from the user.
+- Scenario 2: BMI Calculation — Compute BMI using BMI = weight / (height *   height).
+- Scenario 3: Health Classification — Display BMI category using if-else     conditions.
+
+*Instructions:*
+- Write clean and readable code
+- Add comments wherever required
+- Test programs with multiple inputs
+- Push solutions to the scenario-based folder in your Git repository
+
+- This practice helped building strong Core Java fundamentals and prepares you for real-world application development.
+
+🔗 **Code Link**
+👉 [Day 9 – Scenario-Based(Day-1 core-java)](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/Core-Java-Practice/scenario-based/day-1)
+
+---
+
+### 📅 Day 10 – Introduction to Object-Oriented Programming and scenario-based for core-java 
 **(Date: 26-Dec-2025)**
 
 - Studied Procedural Programming and its limitations.
@@ -195,12 +229,33 @@ BridgeLabz-Training/
 - Implemented a sample program using procedural approach.
 - Committed and pushed solutions to the repository.
 
+## Core Java – Scenario Based Problem Statements
+
+**(3).Election Booth Manager**
+*Scenarios:*
+- Age input and eligibility check (age ≥ 18) using if.
+- Record vote for candidates (1, 2, 3).
+- Loop for multiple voters, exit on special code.
+
+**(4).Metro Smart Card Fare Deduction**
+*Scenarios:*
+- Input travel distance.
+- Calculate fare using ternary operator.
+- Deduct balance and loop until exhausted or user quits.
+
+**(5).Raj’s Result Generator**
+*Scenarios:*
+- Input marks for 5 subjects.
+- Calculate average marks.
+- Assign grades using switch and iterate using for-loop.
+
 🔗 **Code Link:**  
-👉 [Day 9 – Introduction to OOP](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject)
+👉 [Day 10 – Introduction to OOP](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject)
+👉 [Scenario-Based(Day-2 core-java)](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/Core-Java-Practice/scenario-based/day-2)
 
 ---
 
-## 📅 Day 10 – Constructors, Variables & Access Modifiers  
+## 📅 Day 11 – Constructors, Variables & Access Modifiers  
 **(Date: 27-Dec-2025)**
 
 ### 📘 Topics Covered
@@ -223,11 +278,11 @@ BridgeLabz-Training/
   - Understood how access levels affect visibility across classes and subclasses.
  
 🔗 **Code Link:**  
-👉 [Day 10 – Constructor & Access Modifiers](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructors/level1)
+👉 [Day 11 – Constructor & Access Modifiers](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructors/level1)
 
 ---
-### 📅 Day 11 – Keywords & Scenario-Based Programming
 
+### 📅 Day 12 – Keywords & Scenario-Based Programming
 **(Date: 29-Dec-2025)**
 
 ### 📘 Topics Covered
@@ -243,10 +298,11 @@ BridgeLabz-Training/
   - Final variables vs non-final variables
 
 - Solved scenario-based problems to strengthen real-world understanding:
-  - Parking Lot Management System
-  - Phone Recharge Simulation
-  - Number Guessing Game
-  - Discount Calculation System
+  - 6.Parking Lot Management System
+  - 7.Phone Recharge Simulation
+  - 8.Number Guessing Game
+  - 9.Discount Calculation System
+  - 10.School Bus Attendence System
 
 - Focused on:
   - Logical flow building
@@ -257,17 +313,17 @@ BridgeLabz-Training/
 - Improved debugging skills and code readability.
 
 🔗 Code Link:
-👉 [Day 11 – Keywords & Scenario-Based Programs](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inbuiltfunction)
+👉 [Day 12 – Keywords & Scenario-Based Programs](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inbuiltfunction)
+👉 [Scenario-Based(Day-3 core-java)](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/Core-Java-Practice/scenario-based/day-3)
 
 ---
 
-### Day 12 – Scenario-Based Design & Object Modeling
-
+### Day 13 – Object Modeling & Scenario-Based Design
 **(Date: 30-Dec-2025)**
 
 ### 📘 Topics Covered
- - Practiced real-world scenario-based problem solving using Object-Oriented Programming concepts.
- - Learned how to identify entities, attributes, and relationships from problem statements.
+ - Practiced real-world scenario-based problem solving using Object-          Oriented Programming concepts.
+ - Learned how to identify entities, attributes, and relationships from       problem statements.
  - Designed and implemented object models before writing code.
  - Understood and applied different types of relationships:
    - Association – objects related but independent
@@ -284,12 +340,40 @@ BridgeLabz-Training/
     - Class diagrams (conceptual understanding)
     - Logical method responsibilities
 
+## Core Java – Scenario Based Problems
+
+**(11). Temperature Logger**
+● Store 7 days temperature using array and for-loop.
+● Find average and maximum temperature using if.
+
+**(12). Train Reservation Queue**
+● Display menu using switch.
+● Allow bookings using while-loop.
+● Stop when seats are full using break.
+
+**(13). Fitness Challenge Tracker**
+● Store weekly push-up counts.
+● Calculate total and average using for-each.
+● Skip rest days using continue.
+
+**(14). Movie Ticket Booking App**
+● Input movie type, seat type, and snacks.
+● Use switch with if conditions.
+● Loop for multiple customers.
+
+**(15). Library Reminder App**
+● Input due date and return date.
+● Calculate fine ₹5/day if late.
+● Repeat for 5 books using for-loop.
+
+
 🔗 **Code Link:**
-👉 [Day 12 - Object Modeling and Scenario-Based Question](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodeling)
+👉 [Day 13 - Object Modeling and Scenario-Based Question](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodeling)
+👉 [Scenario-Based(Day-4 core-java)](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/Core-Java-Practice/scenario-based/day-4)
 
 ---
 
-### 📅 Day 13 – Inheritance & Types of Inheritance in Java  
+### 📅 Day 14 – Inheritance & Types of Inheritance in Java and Scenario-Based  
 **(Date: 31-Dec-2025)**
 
 ### 📘 Topics Covered
@@ -316,12 +400,35 @@ BridgeLabz-Training/
   - Vehicle → Electrical Vehicle
   - Student → Teacher → Staff 
 
+*Scenario Based Problem Statements*
+
+**(16). Digital Watch Simulation**
+- Print hours and minutes using nested for-loop.
+- Stop at 13:00 using break.
+
+**(17). Online Quiz Application**
+- Ask 5 MCQs using arrays and for-loop.
+- Check answers using switch and calculate score.
+
+**(18). Currency Exchange Kiosk**
+- Convert INR to selected currency using switch.
+- Repeat conversion using do-while loop.
+
+**(19). Bus Route Distance Tracker**
+- Track distance using while-loop.
+- Exit on passenger confirmation.
+
+**(20). Festival Lucky Draw**
+- Check number divisible by 3 and 5 using if.
+- Handle multiple visitors using loop and continue.
+
 🔗 **Code Link:**  
-👉 [Day 13 – Inheritance & Types of Inheritance](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
+👉 [Day 14 – Inheritance & Types of Inheritance](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
+👉 [Scenario-Based(Day-5 core-java)](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/Core-Java-Practice/scenario-based/day-5)
 
 ---
 
-### 📅 Day 14 – Encapsulation, Interfaces, Abstract Classes & Polymorphism  
+### 📅 Day 15 – Encapsulation, Interfaces, Abstract Classes & Polymorphism  
 **(Date: 01-Jan-2026)**
 
 ### 📘 Topics Covered
@@ -351,51 +458,12 @@ BridgeLabz-Training/
 - Pushed all implementations to the GitHub repository.
 
 🔗 **Code Link:**  
-👉 [*Day 14 – Encapsulation, Interfaces, Abstract Classes & Polymorphism*](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulation?authuser=0)
-
----
-
-### 📅 Day 15 – Scenario-Based Programming using OOP Concepts  
-**(Date: 02-Jan-2026)**
-
-### 📘 Topics Covered
-
-- Implemented **Encapsulation** through real-world scenarios:
-  - Used `private` data members to protect sensitive information.
-  - Applied getters and setters to validate and control data access.
-  - Ensured data integrity by restricting direct object manipulation.
-
-- Applied **Polymorphism** in scenario-based problems:
-  - Used method overriding to achieve runtime polymorphism.
-  - Demonstrated dynamic method dispatch using parent class references.
-  - Improved flexibility and scalability of code design.
-
-- Solved real-world OOP scenarios:
-  - **Bank Account System**
-    - Encapsulated account details such as balance and account number.
-    - Overrode methods for different account types (Savings, Current).
-  - **Employee Payroll System**
-    - Calculated salary differently for Full-Time and Part-Time employees using polymorphism.
-  - **Vehicle Rental System**
-    - Implemented polymorphic behavior for fare calculation across vehicle types.
-  - **Online Shopping Cart**
-    - Encapsulated product data and applied polymorphism for discount calculation.
-
-- Focused on:
-  - Designing classes based on real-world entities.
-  - Writing reusable and extensible code.
-  - Clean separation of responsibilities using OOP principles.
-  - Improving logical thinking and problem-solving skills.
-
-- Tested all scenarios thoroughly and pushed implementations to the GitHub repository.
-
-🔗 **Code Link:**  
-👉 [*Day 15 – Scenario-Based OOP Programs (Encapsulation & Polymorphism)*](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day1)
+👉 [*Day 15 – Encapsulation, Interfaces, Abstract Classes & Polymorphism*](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulation?authuser=0)
 
 --- 
 
-### 📅 Day 16 – Data Structures Overview & Linked Lists  
-**(Date: 03-Jan-2026)**
+### 📅 Day 16 – Data Structures Overview & Linked Lists and Scenario Based-OOPs
+**(Date: 02-Jan-2026)**
 
 ### 📘 Topics Covered
 
@@ -429,15 +497,29 @@ BridgeLabz-Training/
     - Directed and undirected graphs representing relationships.
   - **Hash-Based Data Structures**:
     - HashMap for
+   
+**Solved real-world OOP scenarios:**
+  - **(1).Hospital Patient Management System**
+    - Overloaded for emergency vs. normal patient admission
+    - Keep sensitive data like medicalHistory as private, expose
+  - **(2).Bank Account System**
+    - Encapsulated account details such as balance and account number.
+    - Overrode methods for different account types (Savings, Current).
+  - **(3).Employee Payroll System**
+    - Calculated salary differently for Full-Time and Part-Time employees        using polymorphism.
+  - **(4).Vehicle Rental System**
+    - Implemented polymorphic behavior for fare calculation across vehicle       types.
+  - **(5).Online Shopping Cart**
+    - Encapsulated product data and applied polymorphism for discount            calculation.
 
 🔗 **Code Link:**  
-👉 [*Day 16 – Scenario-Based OOP Programs*](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day2)
- [*Day 16 – Linked List*](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/DSAConcepts/src/com/linkedlist)
+👉 [*Day 16 – Linked List*](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/DSAConcepts/src/com/linkedlist)  
+👉 [*Scenario-Based OOP Programs Day-1*](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day1)
 
 ---
 
 ### 📅 Day 17 – Stack, Queue & Hashing Fundamentals  
-**(Date: 05-Jan-2026)**
+**(Date: 03-Jan-2026)**
 
 ### 📘 Topics Covered
 
@@ -490,53 +572,113 @@ BridgeLabz-Training/
   - Choosing the right data structure based on problem requirements.
   - Understanding internal mechanics for interview readiness.
   - Writing clean, efficient, and safe data-structure-based code.
+ 
+## Core Java – OOP Scenarios
+
+**(6). CabbyGo**
+● Vehicle & Driver classes with constructors.
+● Inheritance, interface, encapsulation, polymorphism.
+● Fare calculation using operators.
+
+**(7). MyBank**
+● Account, Savings, Current classes.
+● Interface for transactions.
+● Encapsulation and interest calculation.
 
 🔗 **Code Link:**  
 👉 [*Day 17 – Stack, Queue & HashMap Implementations*](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/DSAConcepts/src/com/stackandqueue)
- [*Day 17 – Scenario-Based OOP Programs*](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day3)
+👉[*Day 2 – Scenario-Based OOP Programs Day-2*](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day2)
 
- -- 
- ##📅 Day 18 – String Handling, I/O Streams & Searching Basics
+---
+
+## 📅 Day 18 – Sorting Algorithms and OOPs Scenario-Based
+**(Date: 05-Jan-2026)**
+
+## 📘 Topics Covered
+
+*We practiced and solved problems using four fundamental sorting algorithms:*
+
+- **Bubble Sort** 
+  - Compared adjacent elements and swapped to sort the list.  
+  - Solved example problems to understand step-by-step iteration.  
+
+- **Insertion Sort**  
+  - Inserted each element into its correct position in a nearly sorted         array.  
+  - Applied on scenario-based questions for small dynamic datasets.  
+
+- **Merge Sort**
+  - Divided arrays into sublists and merged them in sorted order.  
+  - Solved exercises to efficiently handle large datasets.  
+
+- **Quick Sort** 
+  - Partitioned array using a pivot and sorted recursively.  
+  - Implemented example problems to understand recursive sorting logic.
+ 
+## OOP Scenario Based Problems
+
+**(8). CampusConnect – College Info System**
+● Person base class; Student & Faculty inherit.
+● ICourseActions interface for enroll/drop.
+● Course class with student list and faculty.
+● Encapsulation for grades; GPA calculation using operators.
+● Polymorphism in printDetails().
+
+**(9). SwiftCart – Grocery Shopping App**
+● Product and Cart classes with constructors.
+● ICheckout interface for bill and discount.
+● Encapsulation for price; operators for total and discount.
+● Inheritance for product types; polymorphism in discount.
+
+👉[*Day 18 – Sorting Algorithms*](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/DSAConcepts/src/com/sortingalgorithm?authuser=0)
+👉[*Day 3 – Scenario-Based OOP Programs Day-3*](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day3)
+
+---
+
+## 📅 Day 19– Searching, Java I/O and OOPs Scenario-Based
 **(Date: 06-Jan-2026)**
 
+We practiced and solved problems using search techniques and Java I/O classes:
 
-##📘 Topics Covered
+- Linear Search  
+  - Searched elements sequentially in an array or list.  
+  - Solved example problems to find values step-by-step.  
 
-- Studied Mutable String Classes in Java:
-  - StringBuilder
-   - Mutable sequence of characters.
-   - Faster than StringBuffer (not thread-safe).
-   - Common methods: append(), insert(), delete(), reverse().
-   - Used in performance-critical string manipulation.
-    
-  - StringBuffer
-   - Mutable and thread-safe (synchronized).
-   - Slower than StringBuilder due to synchronization.
-   - Used in multi-threaded environments.
-     
-  - Compared:
-   - String vs StringBuilder vs StringBuffer
-   - Mutability, performance, and thread safety differences.
-     
- - Explored Java I/O Stream Classes:
-  - FileReader
-  - Reads character data from files.
-  - Suitable for text-based file input.
-  - Used for reading files character by character.
+- Binary Search  
+  - Divided sorted arrays to locate elements efficiently.  
+  - Applied on solved questions with sorted datasets.  
 
-  - InputStreamReader
-   - Bridges byte streams to character streams.
-   - Converts byte input into characters using encoding.
-   - Commonly used with System.in and FileInputStream.
-   - 
-  - Understood:
-   - Byte streams vs Character streams.
-   - Importance of encoding in input handling.
+- StringBuilder & StringBuffer  
+  - Manipulated strings efficiently using append, insert, delete methods.  
+  - Solved problems requiring dynamic string updates.  
 
---
+- BufferedReader, FileReader, InputStreamReader  
+  - Read input from console and files efficiently.  
+  - Solved example problems to process large inputs and files.
 
-## 📅 Day 19 – Algorithm Runtime Analysis & OOP Scenario-Based Programs
+## Core Java – OOP Scenario Based Problems
 
+**10. EduMentor – Personalized Learning Platform**
+- User, Learner, Instructor classes with inheritance; ICertifiable interface for certificates.  
+- Quiz class with encapsulation; operators and polymorphism for scoring and certificates.
+
+**11. FitTrack – Personal Fitness Tracker**
+- UserProfile and Workout classes with inheritance; ITrackable interface for workouts.
+- Encapsulation for health data; operators and polymorphism for calorie calculation.
+
+**12. PetPal – Virtual Pet Care App**
+- Pet base class with Dog, Cat, Bird subclasses; IInteractable interface for actions.  
+- Encapsulation for hunger/mood; operators and polymorphism for interactions and sounds.
+
+**13. EventEase – Event Management Platform**
+- Event and User classes; ISchedulable interface for scheduling/rescheduling.  
+- Encapsulation and access modifiers for sensitive data; operators and polymorphism for cost and scheduling.
+
+👉[*Day 19 – Searching Algorithms*](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/DSAConcepts)
+👉[*Day 4 – Scenario-Based OOP Programs Day-4*](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day4)
+
+---
+
+## 📅 Day 20 – Algorithm Runtime Analysis & OOP Scenario-Based Programs
 **(Date: 07-Jan-2026)**
 
 📘 *Topics Covered*
@@ -555,23 +697,33 @@ BridgeLabz-Training/
 
 # 2️⃣ OOP Scenario-Based Learning
 
- - Applied Inheritance, Encapsulation, Polymorphism, Interfaces in real-world programs:
- - Bank Account System – Encapsulated balance; polymorphic methods for Savings & Current accounts.
- - Employee Payroll System – Overridden salary calculations for Full-Time & Part-Time employees.
- - Vehicle Rental System – Polymorphic fare calculation across vehicle types.
- - Online Shopping Cart – Encapsulated product data; applied polymorphism for discount logic.
- - Smart Parking System – Slots assigned, charges calculated, access controlled via encapsulation.
+**14. LoanBuddy – Loan Approval Automation**  
+- Automates personal loan approvals for salaried and self-employed applicants.  
+- Uses Applicant and LoanApplication classes with encapsulated credit scores and internal approval logic.  
+- Polymorphic EMI calculations and controlled access to loan status via interfaces and access modifiers.  
+
+**15. BookBazaar – Digital Bookstore System**  
+- Manages books, orders, and discounts in an online bookstore backend.  
+- Book class with EBook and PrintedBook inheritance; polymorphic discount application.  
+- Encapsulated inventory updates and controlled order status changes.  
+
+**16. ParkEase – Smart Parking Management System**  
+- Assigns parking slots, calculates charges, and tracks availability in real-time.  
+- Vehicle inheritance with polymorphic calculateCharges() method; IPayable interface used.  
+- Encapsulated slot data, constructors for initialization, and protected internal booking records.
 
 # 3️⃣ Key Takeaways
 
  - Algorithm efficiency impacts large datasets significantly.
  - OOP principles enable modular, reusable, and maintainable code.
- - Combining OOP design with optimized algorithms solves real-world problems efficiently.
+ - Combining OOP design with optimized algorithms solves real-world           problems efficiently.
+
+👉[*Day 20 – Analysis Algorithms*](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/DSAConcepts)
+👉[*Day 5 – Scenario-Based OOP Programs Day-5*](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day5)
 
 ---
 
-## Day 20 – Scenario-Based Design & OOP Case Studies
-
+## Day 21 – Scenario-Based Design & OOP Case Studies
 **(Date: 08-Jan-2026)**
 
 # 📘 Topics Covered
@@ -583,18 +735,25 @@ BridgeLabz-Training/
  - Implemented runtime polymorphism for dynamic logic execution.
  - Performed operator-based calculations for totals and discounts.
 
+**(17). MediStore – Pharmacy Inventory & Sales System**  
+- Manages medicine inventory, sales, and expiry tracking for a pharmacy      chain.  
+- Uses Medicine base class with Tablet, Syrup, Injection inheritance and     ISellable interface.  
+- Applies encapsulation for stock/pricing and polymorphism for expiry        checks.
+
+**(18). TourMate – Travel Itinerary Planner**  
+- Plans trips by managing destination, budget, duration, and related         services.  
+- Uses Trip base class with DomesticTrip and InternationalTrip inheritance   and IBookable interface.  
+- Applies encapsulation for cost details and polymorphism for booking        logic.
+
 🔗 Code Link:
-👉 Day 20 – MediStore & TourMate App
-[(https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day6)]
+👉 [Day 20 – MediStore & TourMate App Day-6](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day6)
 
 --
 
- ## 📅 Day 21 – Scenario-Based OOP Applications
-
+ ## 📅 Day 22 – Scenario-Based OOP Applications
 **(Date: 09-Jan-2026)**
 
 🎨 **Artify – Digital Art Marketplace**
-
  - Artwork base class → DigitalArt, PrintArt
  - IPurchasable interface for purchase & licensing
  - Encapsulation for licensing terms
@@ -602,7 +761,6 @@ BridgeLabz-Training/
  - Polymorphism for art-specific licensing
 
 🍔 **FoodLoop – Restaurant Ordering System**
-
  - FoodItem base class → VegItem, NonVegItem
  - Order class with combo meals
  - IOrderable interface
@@ -610,7 +768,6 @@ BridgeLabz-Training/
  - Polymorphic discount logic
 
 🎓 **SkillForge – Online Learning Portal**
-
  - User → Student, Instructor
  - Course with modules & ratings
  - ICertifiable interface
@@ -618,50 +775,39 @@ BridgeLabz-Training/
  - Polymorphic certificate formats
 
 ✅ *Learning Outcomes*
-
  - Applied inheritance, interfaces, polymorphism
  - Practiced encapsulation and access control
  - Designed real-world OOP systems
 
  🔗 *Code Link*
-👉 **Scenario-Based OOP Implementations**[(https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day7)]
+👉 [Scenario-Based OOP Implementations Day-7](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day7)
 
 --
 
-## 📅 Day 22 – Scenario-Based Data Structures
-
+## 📅 Day 23 – Scenario-Based Data Structures
 **(Date: 10-01-2026)**
 
 Real-world problems using core Data Structures.
----
 
 ## 📖 1. BookShelf – Library Organizer  
 **DS:** HashMap + LinkedList (+ HashSet)
-
 - Genre → list of books
 - Add / remove books dynamically
 - Prevent duplicates (optional)
-
 **Why:**  
 HashMap for fast lookup, LinkedList for efficient insert/delete
 
----
-
 ## 💻 2. BrowserBuddy – Tab History Manager  
 **DS:** Doubly Linked List + Stack
-
 - Back / Forward navigation
 - Restore closed tabs
 - Efficient pointer-based history
-
+  
 **Why:**  
 DLL for bidirectional navigation, Stack for LIFO restore
 
----
-
 ## 🏥 3. AmbulanceRoute – Emergency Navigation  
 **DS:** Circular Linked List
-
 - Circular unit traversal
 - Find nearest available unit
 - Remove unit under maintenance
@@ -669,18 +815,17 @@ DLL for bidirectional navigation, Stack for LIFO restore
 **Why:**  
 Continuous rotation without null checks
 
----
-
 ## Key Concepts
 - Linked Lists (Singly, Doubly, Circular)
 - Stack operations
 - HashMap indexing
 - Real-world DS selection
 
+👉 [Scenario-Based DSA Implementations Day-1](http://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/JavaDSAScenario/src/com/day1)
+
 ---
 
-## 📅 Day 7 – Scenario-Based Data Structures
-
+## 📅 Day 24 – Scenario-Based Data Structures
 **(Date: 12-01-2026)**
 
 ## Real-world problems using core Data Structures.
@@ -693,43 +838,17 @@ Continuous rotation without null checks
 - Priority handling for VIP customers  
 - Call frequency tracking using HashMap  
 
----
-
 ### 2. TrainCompanion – Compartment Navigation System  
 **Data Structure:** Doubly Linked List  
 - Forward and backward traversal  
 - Dynamic insertion and removal of compartments  
 - Adjacent compartment navigation  
 
----
-
 ### 3. TextEditor – Undo / Redo Functionality  
 **Data Structure:** Stack  
 - Insert and delete operations  
 - Undo using stack (LIFO)  
-- Redo using separate stack  
-
----
-
-## Key Concepts
-- Scenario-based data structure selection  
-- Efficient state management  
-- Real-world problem modeling in Java
-
-🔗 *Code Link*
-👉 **Scenario-Based DSA Implementations**[(https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/JavaDSAScenario/src/com/day2)]
-
---
-
-## 📅 Day 8 – Scenario-Based Data Structures
-
-**(Date: 13-01-2026)**
-
-## Real-world problems using core Data Structures.
-
-## Problems Implemented
-
----
+- Redo using separate stack
 
 ### 7. TrafficManager – Roundabout Vehicle Flow  
 **Data Structures:** Circular Linked List, Queue  
@@ -739,25 +858,54 @@ Continuous rotation without null checks
 - Handles queue overflow and underflow  
 - Displays current roundabout state  
 
----
-
 ### 8. BookShelf – Library Organizer  
 **Data Structures:** HashMap, LinkedList (+ optional HashSet)  
 - Maintains genre-wise book catalog  
 - Dynamic insertion and deletion of books  
 - Fast lookup using HashMap  
-- Optional duplicate prevention using HashSet  
+- Optional duplicate prevention using HashSet 
+
+## OOPs Scenario-Based Questions
+
+**(22). HomeNest – Smart Home Device Manager**  
+- Controls and manages smart devices like lights, cameras, thermostats, and locks in a home.  
+- Uses Device base class with multiple subclasses and IControllable interface for actions.  
+- Applies encapsulation for device status and polymorphism for device-specific reset behavior.
+
+**(23). BudgetWise – Personal Finance Tracker**  
+- Helps users track income, expenses, and plan budgets across different categories.  
+- Uses Transaction and Budget classes with IAnalyzable interface for reports and analysis.  
+- Applies encapsulation for expense control and polymorphism for monthly vs yearly reports.
+
+**(24). GameBox – Mobile Game Distribution Platform**  
+- Manages game downloads, demos, purchases, and user-owned game libraries. 
+- Uses Game base class with genre-based inheritance and IDownloadable interface.  
+- Applies encapsulation for user data and polymorphism for demo behavior per game type.
+
+## Key Concepts
+- Scenario-based data structure selection  
+- Efficient state management  
+- Real-world problem modeling in Java
+
+🔗 *Code Link*
+👉 [Scenario-Based DSA Implementations Day-2](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/JavaDSAScenario/src/com/day2)
+👉 [Scenario-Based OOP Implementations Day-8](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day8)
 
 ---
 
+## 📅 Day 25 – Scenario-Based Data Structures
+**(Date: 13-01-2026)**
+
+## Real-world problems using core Data Structures.
+
+**Problems Implemented**
+ 
 ### 9. SmartCheckout – Supermarket Billing Queue  
 **Data Structures:** Queue, HashMap  
 - Customers are processed in FIFO order  
 - Item prices and stock fetched using HashMap  
 - Stock updated after each purchase  
 - Simulates real-time checkout billing system  
-
----
 
 ### 10. ParcelTracker – Delivery Chain Management  
 **Data Structure:** Singly Linked List  
@@ -766,16 +914,12 @@ Continuous rotation without null checks
 - Forward-only traversal of delivery stages  
 - Handles missing or lost parcel scenarios  
 
----
-
 ### 11. ExamProctor – Online Exam Review System  
 **Data Structures:** Stack, HashMap, Functions  
 - Tracks question navigation using Stack (LIFO)  
 - Stores answers using HashMap  
 - Auto-evaluates score on submission  
 - Clean separation of logic using functions  
-
----
 
 ## Key Concepts
 - Scenario-based data structure selection  
@@ -786,16 +930,26 @@ Continuous rotation without null checks
 **Language:** Java  
 **Purpose:** Academic practice and Data Structure concept clarity
 
+## OOPs Scenario-Based
+
+**25. PayXpress – Utility Bill Payment System**  
+- Manages utility bill payments with reminders and late fee calculation.  
+- Uses Bill base class with utility-specific inheritance and IPayable interface.  
+- Applies encapsulation for payment status and polymorphism for reminder behavior.
+
+**26. Bird Sanctuary – Java OOP System**  
+- Manages different bird species with flying and swimming abilities.  
+- Uses Bird base class, Flyable/Swimmable interfaces, and polymorphism for behaviors.  
+- Supports adding, searching, reporting, and counting birds based on abilities.
+
 🔗 *Code Link*
-👉 **Scenario-Based DSA Implementations**
-[(https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/JavaDSAScenario/src/com/day2)]
-[(https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/JavaDSAScenario/src/com/day3)]
+👉 [**Scenario-Based DSA Implementations Day-3**](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/JavaDSAScenario/src/com/day3)
+👉 [Scenario-Based OOP Implementations Day-9](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day9)
 
 --
 
-## 📅 Day 8 – Scenario-Based Data Structures
-
-**(Date: 14-01-2026)**
+## 📅 Day 26 – Scenario-Based Data Structures
+**(Date: 15-01-2026)**
 
 ## Real-world problems using core Data Structures.
 ## Problems Implemented
@@ -818,6 +972,38 @@ Algorithm: Merge Sort
  - Divide-and-conquer approach ensures efficiency
  - Maintains stability for equal records
 
+### 4. EventManager – Ticket Price Optimizer
+Algorithm: Quick Sort
+- Optimizes ticket listings by rapidly sorting large, unsorted price data
+- Uses recursive partitioning for fast average-case performance
+- Ideal for displaying cheapest or most expensive tickets efficiently
+
+### 5. ExamCell – Student Rank Generator
+Algorithm: Merge Sort
+- Merges pre-sorted student scores from multiple exam centers
+- Divide-and-conquer approach ensures accuracy and scalability
+- Efficient for handling large datasets across regions
+
+**Key Concepts**
+ - Scenario-based algorithm selection
+ - Time–space trade-offs
+ - Stable and in-place sorting
+
+**Language: Java**
+**Purpose: Sorting algorithm practice and clarity**
+
+🔗 *Code Link*
+👉 [**Scenario-Based DSA Implementations**](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/JavaDSAScenario/src/com/day4)
+
+
+---
+
+## 📅 Day 27 – Scenario-Based Data Structures
+**(Date: 16-01-2026)**
+
+## Real-world problems using core Data Structures.
+## Problems Implemented
+
 ### 4. RoboWarehouse – Shelf Loading Robot
 Algorithm: Insertion Sort
  - Packages inserted dynamically by weight
@@ -836,21 +1022,11 @@ Algorithm: Quick Sort
  - Fast average-case performance
  - Efficient partition-based sorting
 
-**Key Concepts**
- - Scenario-based algorithm selection
- - Time–space trade-offs
- - Stable and in-place sorting
+👉 [**Scenario-Based DSA Implementations Day-5**](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/JavaDSAScenario/src/com/day5)
 
-**Language: Java**
-**Purpose: Sorting algorithm practice and clarity**
+---
 
-🔗 *Code Link*
-👉 **Scenario-Based DSA Implementations**
-[(https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/JavaDSAScenario/src/com/day4)]
-[(https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/JavaDSAScenario/src/com/day5)]
-
---
-
+## 📅 Day 28 – Scenario-Based Data Structures
 **(Date: 17-01-2026)**
 
 ## 📘 Scenario-Based Problems – Java (OOP + Sorting Algorithms)
@@ -867,8 +1043,6 @@ Algorithm: Quick Sort
 * Encapsulates line data using private fields
 * Initializes objects using constructors
 * *(Bonus)* Stores multiple line comparisons using a list
-  
----
 
 ### 2. Bag-n-Ball Organizer
 **OOP Concepts:** Classes, Objects, Encapsulation, Composition (Has-a relationship)
@@ -880,33 +1054,32 @@ Algorithm: Quick Sort
 * Display all bags with ball count
 * Prevent overflow when bag is full
 * *(Bonus)* Interface-based design using `Storable`
----
+  
 ## 🔁 Sorting Algorithms – Real-World Scenarios
-
 ### 3. IceCreamRush – Sorting Flavors by Popularity
 **Algorithm:** Bubble Sort
 * Small dataset (≈8 flavors)
 * Repeated adjacent comparisons
 * Simple in-place sorting
----
+  
 ### 4. SmartLibrary – Auto-Sort Borrowed Books
 **Algorithm:** Insertion Sort
 * Books inserted one at a time
 * Alphabetical ordering by title
 * Efficient for nearly sorted lists
----
+
 ### 5. ArtExpo – Sort Artists by Registration Time
 **Algorithm:** Insertion Sort
 * Continuous real-time registration
 * Maintains sorted order by time
 * Best for incremental data
----
+
 ### 6. FleetManager – Vehicle Maintenance Scheduler
 **Algorithm:** Merge Sort
 * Depot-wise sorted vehicle lists
 * Merges into a master schedule
 * Efficient for large datasets
----
+
 ## 🧠 Key Learning Outcomes
 * Practical application of OOP principles
 * Scenario-based algorithm selection
@@ -914,18 +1087,15 @@ Algorithm: Quick Sort
 * Stable vs unstable sorting
 * In-place vs memory-intensive algorithms
 
----
-
 **Language:** Java
 **Focus:** Clean design, real-world modeling, algorithm clarity
 
 🔗 **Code Link -** 
-[*Data Structure and algorithms-Scenario based*](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/JavaDSAScenario/src/com/day6)
+[*Data Structure and algorithms-Scenario based Day-6*](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/JavaDSAScenario/src/com/day6)
 
---
+---
 
-📅 **Day 11 – Real time-Scenario-Based Data Structures**
-
+📅 **Day 29 – Real time-Scenario-Based Data Structures**
 **(Date: 19-01-2026)**
 
 ## Problems Implemented
@@ -935,21 +1105,23 @@ Algorithm: Quick Sort
  - Efficient for large datasets
  - Stable sorting for equal scores
 
---
-
 ## 2. FlashDealz – Product Sorting by Discount
 **Algorithm: Quick Sort**
  - Handles large, unsorted product data
  - Fast average-case performance
  - In-place sorting for efficiency
 
---
-
 ## 3. FitnessTracker – Daily Step Count Ranking
 **Algorithm: Bubble Sort**
  - Small user group
  - Frequent real-time updates
  - Simple adjacent swaps
+ - 
+## OOPs Scenario-Based
+**Address Book System**
+- Built using OOP concepts like classes, objects, encapsulation, and         constructors.
+- Supports add, edit, delete, search, and alphabetical display of contacts.
+- Uses ArrayList<Contact> for in-memory storage with duplicate validation.
 
 *Key Concepts*
  - Scenario-based algorithm choice
@@ -959,11 +1131,11 @@ Algorithm: Quick Sort
 **Language: Java**
 
 🔗 **Code Link -**
-[*Data Structure and algorithms-Scenario based*](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/JavaDSAScenario/src/com/day7)
+[*Data Structure and algorithms-Scenario based Day-7*](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/JavaDSAScenario/src/com/day7)
 
---
+---
 
-## 📅 Day 12 – Scenario-Based Sorting Applications  
+## 📅 Day 30 – Scenario-Based Sorting Applications  
 **(Date: 20-Jan-2026)**
 
 🎬 **MovieTime – Theater Show Listings (Insertion Sort)**
@@ -983,12 +1155,11 @@ Algorithm: Quick Sort
 - Understood performance trade-offs in dynamic data
   
 🔗 **Code Link -**
-[*Data Structure and algorithms-Scenario based*](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/JavaDSAScenario/src/com/day8)
+[*Data Structure and algorithms-Scenario based Day-8*](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/JavaDSAScenario/src/com/day8)
 
---
+---
 
-## 📅 Day 21 – Scenario-Based Sorting Applications
-
+## 📅 Day 31 – Scenario-Based Sorting Applications
 **(Date: 21-Jan-2026)**
 
 👗 **TailorShop – Sorting Orders by Delivery Deadline (Insertion Sort)**
@@ -997,17 +1168,49 @@ Algorithm: Quick Sort
  - Insertion Sort enables real-time updates and deadline-based sorting
 
 💊 **MedWarehouse – Sorting Medicines by Expiry (Merge Sort)**
- - Handles medicine records from multiple branches, each already sorted by expiry
+ - Handles medicine records from multiple branches, each already sorted by    expiry
  - Uses Merge Sort to compile all expiry dates into a master list
  - Ensures critical medicines nearing expiration are flagged promptly
 
 ✅ *Learning Outcomes*
  - Applied Insertion Sort to dynamic, nearly sorted real-time data
  - Applied Merge Sort to merge multiple sorted sublists efficiently
- - Understood algorithm choices for time-sensitive and critical inventory management
+ - Understood algorithm choices for time-sensitive and critical inventory     management
 
 🔗 **Code Link -**
 [*Data Structure and algorithms-Scenario based*](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/JavaDSAScenario/src/com/day9)
+
+---
+
+## 📅 Day 22 – Scenario-Based Sorting Applications
+
+**(Date: 22-Jan-2026)**
+## 1. Binary Search Tree (BST)
+
+Story: University's Digital Record System
+The university needs an efficient way to manage student records searchable by roll number.
+
+Scenarios:
+● 🔹 Scenario 1: Insertion — As students enroll, insert their roll numbers with personal details.
+● 🔹 Scenario 2: Deletion — If a student leaves, remove their record.
+● 🔹 Scenario 3: Search & Display — A professor wants a sorted list of student roll numbers for attendance.
+
+Story: E-Commerce Product Inventory
+An online store categorizes products by SKU numbers.
+
+Scenarios:
+● 🔹 Scenario 1: Lookup — Customers search for a product using SKU.
+● 🔹 Scenario 2: Price Update — Admin updates products using SKU key.
+● 🔹 Scenario 3: Sorted List — Display all products in sorted SKU order.
+
+Story: Music App – Organize Songs by Track ID
+A music streaming app organizes tracks in a library using track IDs.
+
+Scenarios:
+● 🔹 Scenario 1: Search Track — Users want to search a song using track ID.
+● 🔹 Scenario 2: Insert New Track — Add new releases to the library.
+● 🔹 Scenario 3: Show Playlist Alphabetically — In-order traversal by song title.
+
 
 ---
 
