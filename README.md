@@ -1172,47 +1172,130 @@ Algorithm: Quick Sort
  - Uses Merge Sort to compile all expiry dates into a master list
  - Ensures critical medicines nearing expiration are flagged promptly
 
+## Tree Scenario-Based
+## 🌳 1. Binary Search Tree (BST)
+
+### Story 1: University’s Digital Record System
+- Uses a Binary Search Tree to store student records based on unique roll numbers.
+- Allows fast insertion when new students enroll and deletion when students leave.
+- In-order traversal helps professors view roll numbers in sorted order for attendance.
+
+### Story 2: E-Commerce Product Inventory
+- Products are organized in a BST using SKU numbers as keys.
+- Enables quick product lookup and efficient price updates by SKU.
+- Displays all products in sorted SKU order for inventory analysis.
+
+### Story 3: Music App – Organize Songs by Track ID
+- Songs are stored in a BST using track IDs for efficient management.
+- Supports fast searching when users look up songs by track ID.
+- In-order traversal generates an alphabetically sorted playlist view.
+
 ✅ *Learning Outcomes*
  - Applied Insertion Sort to dynamic, nearly sorted real-time data
  - Applied Merge Sort to merge multiple sorted sublists efficiently
- - Understood algorithm choices for time-sensitive and critical inventory     management
+ - Understood algorithm choices for time-sensitive and critical inventory management
 
 🔗 **Code Link -**
 [*Data Structure and algorithms-Scenario based*](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/JavaDSAScenario/src/com/day9)
+[*Data Structure and algorithms-Scenario based*](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/JavaDSAScenario/src/com/day10)
 
 ---
 
-## 📅 Day 22 – Scenario-Based Sorting Applications
-
+## 📅 Day 32 – Scenario-Based Sorting Applications
 **(Date: 22-Jan-2026)**
-## 1. Binary Search Tree (BST)
 
-Story: University's Digital Record System
-The university needs an efficient way to manage student records searchable by roll number.
+## 🌲 AVL Tree
 
-Scenarios:
-● 🔹 Scenario 1: Insertion — As students enroll, insert their roll numbers with personal details.
-● 🔹 Scenario 2: Deletion — If a student leaves, remove their record.
-● 🔹 Scenario 3: Search & Display — A professor wants a sorted list of student roll numbers for attendance.
+### Story 1: Gaming App – Real-Time Leaderboard
+- Uses an AVL Tree to keep player scores balanced as points change frequently.
+- Supports fast insert/update operations when players gain or lose points.
+- Efficiently retrieves the top-ranked players by maintaining height balance.
 
-Story: E-Commerce Product Inventory
-An online store categorizes products by SKU numbers.
+### Story 2: Online Ticket Booking by Event Time
+- Stores events in an AVL Tree based on their start time.
+- Allows quick insertion of new events and deletion of cancelled ones.
+- In-order traversal displays upcoming events in correct chronological order.
 
-Scenarios:
-● 🔹 Scenario 1: Lookup — Customers search for a product using SKU.
-● 🔹 Scenario 2: Price Update — Admin updates products using SKU key.
-● 🔹 Scenario 3: Sorted List — Display all products in sorted SKU order.
+### Story 3: Hospital Queue Management System
+- Patient records are inserted into an AVL Tree using check-in time as key.
+- Ensures fast deletion when a patient is discharged or record is removed.
+- Balanced structure allows quick display of patients sorted by arrival time.
 
-Story: Music App – Organize Songs by Track ID
-A music streaming app organizes tracks in a library using track IDs.
-
-Scenarios:
-● 🔹 Scenario 1: Search Track — Users want to search a song using track ID.
-● 🔹 Scenario 2: Insert New Track — Add new releases to the library.
-● 🔹 Scenario 3: Show Playlist Alphabetically — In-order traversal by song title.
-
+🔗 **Code Link -**
+[*Data Structure and algorithms-Scenario based*]
 
 ---
+
+## 📘 Day 33 - Scenario-Based Java Problems  
+**(Date: 23-Jan-2026)**
+
+**(Collections, Generics, I/O Streams, Regex)**
+
+### 1. ResumeAnalyzer – Smart Resume Filtering System
+- Reads `.txt` and `.pdf` resumes from a folder using Java I/O Streams.
+- Uses Regex to extract emails, phone numbers, and skill keywords like Java, Python, Spring.
+- Stores valid resumes in a `Map<String, ResumeData>` and sorts candidates by keyword match count.
+- 
+### 2. TravelLog – Trip Organizer for Backpackers
+- Stores trip details as serialized objects using `ObjectOutputStream` and reads them back from files.
+- Uses Regex to extract visited cities and Collections (`Set`, `Map`) to track unique countries and visit counts.
+- Analyzes trips to find long journeys and top 3 most visited cities.
+
+### 3. FeedbackGuru – Smart Survey Analyzer
+- Reads multiple feedback `.txt` files line by line using BufferedReader.
+- Applies Regex to extract ratings (e.g., 8/10, 9/10) and categorize feedback sentiment.
+- Uses Generics and `Map<String, List<String>>` for flexible feedback grouping with safe exception handling.
+
+### 4. CodeRepoCleaner – Java File Scanner and Organizer
+- Scans nested directories to read all `.java` files using Java I/O and Streams API.
+- Uses Regex to detect naming violations and unused imports in source files.
+- Organizes files into Valid, Warning, and Error categories using Lists, Maps, and Sets.
+
+### 5. ExamScanner – Digital Answer Sheet Validator
+- Reads `.csv` answer sheets using BufferedReader and parses student responses.
+- Compares answers with a key and stores results in `Map<StudentName, Score>`.
+- Uses Generics, PriorityQueue, and Regex to validate formats and rank students efficiently.
+
+🔗 **Code Link -**
+[*Data Structure and algorithms-Scenario based*]
+
+---
+
+# 📘 Day 34 - Scenario-Based Java Problems  
+**(Date: 24-Jan-2026)**
+
+(Collections, Generics, I/O Streams, Regex, Custom Exceptions)
+
+### 6. MedInventory – Smart Hospital Inventory Tracker
+- Reads daily medical inventory `.csv` files using BufferedReader and processes item data.
+- Uses Regex to detect expired supplies and Collections (`Map`, `Set`) to categorize and remove duplicates.
+- Applies Generics for extensibility and raises custom exceptions for critically low stock levels.
+
+### 7. ChatLogParser – Messaging Pattern Analyzer
+- Reads chat log files line by line and extracts timestamp, user, and message using Regex.
+- Stores user-wise messages in a TreeMap for automatic alphabetical sorting.
+- Filters non-productive chats using generic filtering interfaces and keyword-based rules.
+
+### 8. SongVault – Personal Music Library Manager
+- Reads structured song `.txt` files and extracts metadata fields using Regex.
+- Organizes songs using List, groups them by genre using Map, and tracks unique artists using Set.
+- Supports filtering and sorting via Java Streams with Generics for multiple media types.
+
+### 9. ExamResultUploader – Bulk Marks Processing
+- Reads student marks from `.csv` files using FileReader and BufferedReader.
+- Validates record format using Regex and stores subject-wise marks using Maps.
+- Uses PriorityQueue to identify top scorers and custom exceptions for invalid data entries.
+
+### 10. DealTracker – E-Commerce Discount Validator
+- Parses deal configuration files using FileInputStream and extracts fields via Regex.
+- Filters expired or invalid deals using date validation and stores valid ones in Maps and Sets.
+- Sorts deals by discount using Comparator and supports multiple promotion types via Generics.
+
+🔗 **Code Link -**
+[*Data Structure and algorithms-Scenario based*]
+
+---
+
 
 
 
