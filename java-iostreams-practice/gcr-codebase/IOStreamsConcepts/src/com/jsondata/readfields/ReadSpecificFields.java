@@ -19,8 +19,8 @@ public class ReadSpecificFields {
             String name = rootNode.get("name").asText();
             String email = rootNode.get("email").asText();
 
-            System.out.println("User Name: " + name);
-            System.out.println("User Email: " + email);
+            System.out.println("User Name : " + name);
+            System.out.println("User Email : " + email);
 
         } catch (Exception e) {
             e.printStackTrace();
