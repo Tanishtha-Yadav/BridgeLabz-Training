@@ -1296,6 +1296,208 @@ Algorithm: Quick Sort
 
 ---
 
+## 🗓️ Day 35 – 27 Jan
+
+**Topics Covered:**
+
+* Java 8 Lambda Expressions
+* Functional Interfaces (Predicate, Function, Consumer, Supplier)
+* Optional Class – Null safety patterns
+
+**Practice Work:**
+
+* Real-time lambda scenarios (Student, Employee, Banking)
+* Optional-based scenarios to avoid NullPointerException
+
+**Outcome:**
+
+* Clear understanding of functional programming basics
+* Ability to write concise lambda expressions
+
+---
+
+## 🗓️ Day 36 – 28 Jan
+
+**Topics Covered:**
+
+* Java Stream API fundamentals
+* Filtering, mapping, sorting operations
+
+**Practice Work:**
+
+* 30 Java 8 logical questions using streams
+* Character & word frequency problems
+
+**Outcome:**
+
+* Strong command over stream pipelines
+* Improved data-processing logic
+
+---
+
+## 🗓️ Day 37 – 29 Jan
+
+**Topics Covered:**
+
+* Collectors framework
+* Grouping, partitioning, aggregation
+
+**Practice Work:**
+
+* List → Map, Map → List conversions
+* GroupBy & PartitionBy scenarios
+
+**Outcome:**
+
+* Mastery of complex collectors
+* Confidence in transformation problems
+
+---
+
+## 🗓️ Day 38 – 30 Jan
+
+**Topics Covered:**
+
+* Design Principles (SOLID)
+* GoF Design Patterns – Introduction
+
+**Practice Work:**
+
+* Singleton, Factory pattern scenarios
+* Design principle mapping with real-world examples
+
+**Outcome:**
+
+* Ability to identify patterns in problem statements
+
+---
+
+## 🗓️ Day 39 – 31 Jan
+
+**Topics Covered:**
+
+* Advanced Stream problems
+* Employee & Student analytics using streams
+
+**Practice Work:**
+
+* Ranking, grouping, min/max problems
+* Bonus stream challenges
+
+**Outcome:**
+
+* Exam-level stream problem readiness
+
+---
+
+## 🗓️ Day 40 – 01 Feb
+
+**Topics Covered:**
+
+* Java Multithreading basics
+* Thread lifecycle & synchronization
+
+**Practice Work:**
+
+* Bank Transaction multithreading scenario
+* Deposit & withdrawal thread safety
+
+**Outcome:**
+
+* Clear understanding of race conditions
+
+---
+
+## 🗓️ Day 41 – 02 Feb
+
+**Topics Covered:**
+
+* Advanced Multithreading
+* Deadlock & synchronization blocks
+
+**Practice Work:**
+
+* Scenario-based multithreading questions
+
+**Outcome:**
+
+* Ability to design thread-safe classes
+
+---
+
+## 🗓️ Day 42 – 03 Feb
+
+**Topics Covered:**
+
+* OOPS revision
+* Collections framework
+
+**Practice Work:**
+
+* FutureLogistics OOPS-based problem
+
+**Outcome:**
+
+* Strong object-oriented modeling skills
+
+---
+
+## 🗓️ Day 43 – 04 Feb
+
+**Topics Covered:**
+
+* MySQL basics
+* JDBC architecture
+
+**Practice Work:**
+
+* CRUD operations using JDBC
+* PreparedStatement practice
+
+**Outcome:**
+
+* Database connectivity confidence
+
+---
+
+## 🗓️ Day 44 – 05 Feb
+
+**Topics Covered:**
+
+* Collections-based problem solving
+
+**Practice Work:**
+
+* OceanFleet – Vessel performance system
+
+**Outcome:**
+
+* Clean collection handling
+* Exam-ready problem-solving approach
+
+---
+
+## 🗓️ Day 45 – 06 Feb
+
+**Topics Covered:**
+
+* Full revision
+* M1 preparation
+
+**Practice Work:**
+
+* End-to-end scenario revision
+* Weak area identification
+
+**Outcome:**
+
+* Structured revision completed
+
+---
+
+
+
+
 
 
 
