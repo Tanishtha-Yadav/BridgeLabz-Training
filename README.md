@@ -1512,6 +1512,29 @@ Algorithm: Quick Sort
 
 ---
 
+## 🗓️ Day 47 – 09 Feb
+
+**Topics Covered:**
+- Prerequisites and Setup
+- JDBC Architecture
+- Establishing Database Connection
+- CRUD Operations
+- PreparedStatement vs Statement
+- Transaction Management
+- Connection Pooling
+- Best Practices
+- Complete Project Examples
+
+**Outcomes**
+- Connect Java to database using JDBC
+- Perform CRUD operations
+- Use PreparedStatement for secure queries
+- Manage transactions (commit/rollback)
+- Implement connection pooling
+- Followed JDBC best practices
+- Build complete database applications
+
+---
 
 
 
