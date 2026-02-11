@@ -1536,6 +1536,38 @@ Algorithm: Quick Sort
 
 ---
 
+## 🗓️ Day 48 – 10 Feb
+
+# Java M1 Mock Assignment
+
+## Q1: Smart Canteen Order Tracker
+* Uses List to store orders
+* Validates items using switch-case
+* Calculates total + 5% GST
+* Uses loop, continue, and exception handling
+
+## Q2: Weekly Activity Analyzer
+* Stores steps in int[] array
+* Custom InvalidStepCountException
+* Calculates total, average, highest, lowest
+* Classifies: Active / Moderate / Sedentary
+
+## Q3: Course Enrollment Analyzer
+* Enrollment class with student, course, category, date
+* Streams API for:
+  * Filter by category
+  * Count per category
+  * Group by course
+  * Sort by date
+* Includes JUnit tests for filtering and counting
+
+**Tech Used:** Java 8+, Streams API, Collections, JUnit
+
+---
+
+
+
+
 
 
 
