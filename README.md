@@ -1565,7 +1565,24 @@ Algorithm: Quick Sort
 
 ---
 
+## 🗓️ Day 49 – 11 Feb
 
+# Java Assignment 
+
+## Factory Robot Hazard Analyzer
+A Java program that simulates robot safety checks using **exception handling**.
+
+**Features**
+* Robot hazard detection
+* Custom exceptions
+* try–catch error handling
+
+**Concepts Used**
+* Exception handling
+* Custom exceptions
+* OOP in Java
+
+---
 
 
 
