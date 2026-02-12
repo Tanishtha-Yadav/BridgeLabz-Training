@@ -1584,6 +1584,18 @@ A Java program that simulates robot safety checks using **exception handling**.
 
 ---
 
+## 🗓️ Day 49 – 11 Feb
+
+# Java Assignment
+
+## AeroVigil - Airline management system
+
+* Try-catch error handling
+* Custom exception
+* Core-Java
+
+---  
+
 
 
 
