@@ -1584,7 +1584,7 @@ A Java program that simulates robot safety checks using **exception handling**.
 
 ---
 
-## 🗓️ Day 49 – 11 Feb
+## 🗓️ Day 50 – 12 Feb
 
 # Java Assignment
 
@@ -1595,6 +1595,34 @@ A Java program that simulates robot safety checks using **exception handling**.
 * Core-Java
 
 ---  
+
+## 🗓️ Day 51 – 13 Feb
+
+# MySQL & Java Coding Activities
+
+### 1. MySQL by Examples
+- Practice of SELECT, WHERE, GROUP BY, JOINS, and aggregate functions  
+- Hands-on query execution and data handling  
+
+### 2. Car Pro (Java)
+- Car class implementation  
+- Store and manage car details  
+- Search and filter operations  
+
+### 3. Train Seat Details (Java)
+- Seat status management  
+- Count available/booked seats  
+- Basic search and display logic  
+
+## Tech Stack
+- Java  
+- MySQL  
+
+## Objective
+Improve logical thinking and strengthen database + core Java fundamentals.
+
+---
+
 
 
 
