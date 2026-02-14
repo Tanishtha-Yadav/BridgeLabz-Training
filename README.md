@@ -1623,6 +1623,25 @@ Improve logical thinking and strengthen database + core Java fundamentals.
 
 ---
 
+## 🗓️ Day 52 – 14 Feb
+
+**Topics Covered:**
+
+* Attended Power Skill sessions
+
+**Practice Work:**
+
+* Email-Correction
+* Presentation Practice
+
+**Outcome:**
+
+* Gained E-mail and Presentation creation practice.
+
+--- 
+
+
+
 
 
 
