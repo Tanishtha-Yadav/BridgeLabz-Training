@@ -1641,6 +1641,25 @@ Improve logical thinking and strengthen database + core Java fundamentals.
 --- 
 
 
+## 🗓️ Day 53 – 16 Feb
+
+**Topics Covered:**
+
+* JDBC
+
+**Practice Work:**
+
+* Solved practice questions on database connection and CRUD operations using JDBC.
+
+**Outcome:**
+
+* Learned how Java connects to a database, executes SQL queries, handles results, and manages resources properly.
+* Strengthened practical understanding of JDBC workflow and database integration.
+  
+--- 
+
+
+
 
 
 
