@@ -1658,6 +1658,33 @@ Improve logical thinking and strengthen database + core Java fundamentals.
   
 --- 
 
+## 🗓️ Day 54 – 17 Feb
+
+**📚 Collaborative Group PDFs**
+
+**Topics Covered:**
+
+* Arrays
+* Strings & Exception Handling
+* OOP Concepts
+* Collection Framework
+* Stream API
+* Practice & Scenario-based Questions
+
+**Practice Work:**
+
+* Solved exercises on exceptions, arrays, and strings.
+* Worked on collection and Stream API problems.
+* Reviewed scenario-based collection assignments.
+
+**Outcome:**
+
+* Strengthened core Java fundamentals.
+* Improved problem-solving with collections and streams.
+* Gained better understanding of exception handling and OOP concepts.
+
+---
+
 
 
 
