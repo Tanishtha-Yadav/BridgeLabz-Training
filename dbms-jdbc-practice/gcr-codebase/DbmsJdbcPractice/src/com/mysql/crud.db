@@ -1,0 +1,129 @@
+Exercise 1: Simple CRUD Application
+Create a console-based Employee Management System with:
+• Add employee
+• View all employees
+• Update employee salary
+• Delete employee
+• Search employee by name
+
+
+
+mysql> Create database employee;
+Query OK, 1 row affected (0.04 sec)
+
+
+mysql> USE employee;
+Database changed
+
+
+mysql> CREATE TABLE employee_data(
+    -> name varchar(20),
+    -> salary int,
+    -> department varchar(20)
+    -> );
+Query OK, 0 rows affected (0.07 sec)
+
+
+mysql> SHOW tables;
++--------------------+
+| Tables_in_employee |
++--------------------+
+| employee_data      |
++--------------------+
+1 row in set (0.00 sec)
+
+
+mysql> DESCRIBE employee_data;
++------------+-------------+------+-----+---------+-------+
+| Field      | Type        | Null | Key | Default | Extra |
++------------+-------------+------+-----+---------+-------+
+| name       | varchar(20) | YES  |     | NULL    |       |
+| salary     | int         | YES  |     | NULL    |       |
+| department | varchar(20) | YES  |     | NULL    |       |
++------------+-------------+------+-----+---------+-------+
+3 rows in set (0.01 sec)
+
+
+mysql> INSERT into employee_data values(
+    -> 'Tanishtha',35000,'IT'
+    -> );
+Query OK, 1 row affected (0.02 sec)
+
+
+mysql> INSERT into employee_data values(
+    -> 'Suhani',35000,'Marketing'
+    -> );
+Query OK, 1 row affected (0.00 sec)
+
+
+mysql> INSERT into employee_data values(
+    -> 'Raman',150000,'IT'
+    -> );
+Query OK, 1 row affected (0.00 sec)
+
+
+mysql> SELECT * From employee_data;
++-----------+--------+------------+
+| name      | salary | department |
++-----------+--------+------------+
+| Tanishtha |  35000 | IT         |
+| Suhani    |  35000 | Marketing  |
+| Raman     | 150000 | IT         |
++-----------+--------+------------+
+3 rows in set (0.00 sec)
+
+
+mysql> SELECT name FROM employee_data;
++-----------+
+| name      |
++-----------+
+| Tanishtha |
+| Suhani    |
+| Raman     |
++-----------+
+3 rows in set (0.00 sec)
+
+
+mysql> UPDATE employee_data
+    -> SET salary = 90000
+    -> where name = 'Suhani'
+    -> ;
+Query OK, 1 row affected (0.01 sec)
+Rows matched: 1  Changed: 1  Warnings: 0
+
+
+mysql> SELECT * FROM employee_data;
++-----------+--------+------------+
+| name      | salary | department |
++-----------+--------+------------+
+| Tanishtha |  35000 | IT         |
+| Suhani    |  90000 | Marketing  |
+| Raman     | 150000 | IT         |
++-----------+--------+------------+
+3 rows in set (0.00 sec)
+
+
+mysql> DELETE from employee_data
+    -> where salary = 35000;
+Query OK, 1 row affected (0.01 sec)
+
+
+mysql> SELECT* FROM employee_data;
++--------+--------+------------+
+| name   | salary | department |
++--------+--------+------------+
+| Suhani |  90000 | Marketing  |
+| Raman  | 150000 | IT         |
++--------+--------+------------+
+2 rows in set (0.00 sec)
+
+
+mysql> SELECT * FROM employee_data
+    -> WHERE name = 'Suhani';
++--------+--------+------------+
+| name   | salary | department |
++--------+--------+------------+
+| Suhani |  90000 | Marketing  |
++--------+--------+------------+
+1 row in set (0.00 sec)
+
