@@ -1,7 +1,8 @@
 ## Week 8: MySQL & JDBC
 
 ### 📅 Day 1 – Mysql Practice
-*(Date: 06-Feb-2026)*
+
+_(Date: 06-Feb-2026)_
 
 ### 🧩 Exercises Implemented
 
@@ -18,13 +19,14 @@
   - Student borrowing records
   - Fine calculation logic
   - Search functionality with multiple filters
- 
-  🔗 *Code Link:*[Practice Exercise](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/DBMSPractice/src/com/mysql)
 
-  ---
+  🔗 _Code Link:_[Practice Exercise](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/dbms-jdbc-practice)
+
+  ***
 
 ### 📅 Day 2 – JDBC CRUD Implementation
-*(Date: 07-Feb-2026)*
+
+_(Date: 07-Feb-2026)_
 
 ### 📌 Objective
 
@@ -43,4 +45,7 @@
 - MySQL Database
 - MySQL Workbench
 - Eclipse IDE
-  
+
+🔗 _Code Link:_[Practice Exercise](https://github.com/Tanishtha-Yadav/BridgeLabz-Training/tree/dbms-jdbc-practice)
+
+---
